@@ -1,0 +1,5029 @@
+{
+    "description": "nothing",
+    "labels": {
+        "0": "bg",
+        "1": "ncr",
+        "2": "ed",
+        "3": "et"
+    },
+    "licence": "see BraTS2021 license",
+    "modality": {
+        "0": "T1",
+        "1": "T1ce",
+        "2": "T2",
+        "3": "FLAIR"
+    },
+    "name": "BraTS2021",
+    "numTest": 0,
+    "numTraining": 1251,
+    "reference": "see BraTS2021",
+    "release": "0.0",
+    "tensorImageSize": "4D",
+    "test": [],
+    "training": [
+        {
+            "image": "./imagesTr/BraTS2021_00000.nii.gz",
+            "label": "./labelsTr/BraTS2021_00000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00002.nii.gz",
+            "label": "./labelsTr/BraTS2021_00002.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00003.nii.gz",
+            "label": "./labelsTr/BraTS2021_00003.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00005.nii.gz",
+            "label": "./labelsTr/BraTS2021_00005.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00006.nii.gz",
+            "label": "./labelsTr/BraTS2021_00006.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00008.nii.gz",
+            "label": "./labelsTr/BraTS2021_00008.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00009.nii.gz",
+            "label": "./labelsTr/BraTS2021_00009.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00011.nii.gz",
+            "label": "./labelsTr/BraTS2021_00011.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00012.nii.gz",
+            "label": "./labelsTr/BraTS2021_00012.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00014.nii.gz",
+            "label": "./labelsTr/BraTS2021_00014.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00016.nii.gz",
+            "label": "./labelsTr/BraTS2021_00016.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00017.nii.gz",
+            "label": "./labelsTr/BraTS2021_00017.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00018.nii.gz",
+            "label": "./labelsTr/BraTS2021_00018.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00019.nii.gz",
+            "label": "./labelsTr/BraTS2021_00019.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00020.nii.gz",
+            "label": "./labelsTr/BraTS2021_00020.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00021.nii.gz",
+            "label": "./labelsTr/BraTS2021_00021.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00022.nii.gz",
+            "label": "./labelsTr/BraTS2021_00022.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00024.nii.gz",
+            "label": "./labelsTr/BraTS2021_00024.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00025.nii.gz",
+            "label": "./labelsTr/BraTS2021_00025.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00026.nii.gz",
+            "label": "./labelsTr/BraTS2021_00026.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00028.nii.gz",
+            "label": "./labelsTr/BraTS2021_00028.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00030.nii.gz",
+            "label": "./labelsTr/BraTS2021_00030.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00031.nii.gz",
+            "label": "./labelsTr/BraTS2021_00031.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00032.nii.gz",
+            "label": "./labelsTr/BraTS2021_00032.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00033.nii.gz",
+            "label": "./labelsTr/BraTS2021_00033.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00035.nii.gz",
+            "label": "./labelsTr/BraTS2021_00035.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00036.nii.gz",
+            "label": "./labelsTr/BraTS2021_00036.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00043.nii.gz",
+            "label": "./labelsTr/BraTS2021_00043.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00044.nii.gz",
+            "label": "./labelsTr/BraTS2021_00044.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00045.nii.gz",
+            "label": "./labelsTr/BraTS2021_00045.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00046.nii.gz",
+            "label": "./labelsTr/BraTS2021_00046.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00048.nii.gz",
+            "label": "./labelsTr/BraTS2021_00048.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00049.nii.gz",
+            "label": "./labelsTr/BraTS2021_00049.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00051.nii.gz",
+            "label": "./labelsTr/BraTS2021_00051.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00052.nii.gz",
+            "label": "./labelsTr/BraTS2021_00052.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00053.nii.gz",
+            "label": "./labelsTr/BraTS2021_00053.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00054.nii.gz",
+            "label": "./labelsTr/BraTS2021_00054.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00056.nii.gz",
+            "label": "./labelsTr/BraTS2021_00056.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00058.nii.gz",
+            "label": "./labelsTr/BraTS2021_00058.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00059.nii.gz",
+            "label": "./labelsTr/BraTS2021_00059.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00060.nii.gz",
+            "label": "./labelsTr/BraTS2021_00060.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00061.nii.gz",
+            "label": "./labelsTr/BraTS2021_00061.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00062.nii.gz",
+            "label": "./labelsTr/BraTS2021_00062.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00063.nii.gz",
+            "label": "./labelsTr/BraTS2021_00063.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00064.nii.gz",
+            "label": "./labelsTr/BraTS2021_00064.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00066.nii.gz",
+            "label": "./labelsTr/BraTS2021_00066.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00068.nii.gz",
+            "label": "./labelsTr/BraTS2021_00068.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00070.nii.gz",
+            "label": "./labelsTr/BraTS2021_00070.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00071.nii.gz",
+            "label": "./labelsTr/BraTS2021_00071.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00072.nii.gz",
+            "label": "./labelsTr/BraTS2021_00072.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00074.nii.gz",
+            "label": "./labelsTr/BraTS2021_00074.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00077.nii.gz",
+            "label": "./labelsTr/BraTS2021_00077.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00078.nii.gz",
+            "label": "./labelsTr/BraTS2021_00078.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00081.nii.gz",
+            "label": "./labelsTr/BraTS2021_00081.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00084.nii.gz",
+            "label": "./labelsTr/BraTS2021_00084.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00085.nii.gz",
+            "label": "./labelsTr/BraTS2021_00085.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00087.nii.gz",
+            "label": "./labelsTr/BraTS2021_00087.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00088.nii.gz",
+            "label": "./labelsTr/BraTS2021_00088.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00089.nii.gz",
+            "label": "./labelsTr/BraTS2021_00089.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00090.nii.gz",
+            "label": "./labelsTr/BraTS2021_00090.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00094.nii.gz",
+            "label": "./labelsTr/BraTS2021_00094.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00095.nii.gz",
+            "label": "./labelsTr/BraTS2021_00095.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00096.nii.gz",
+            "label": "./labelsTr/BraTS2021_00096.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00097.nii.gz",
+            "label": "./labelsTr/BraTS2021_00097.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00098.nii.gz",
+            "label": "./labelsTr/BraTS2021_00098.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00099.nii.gz",
+            "label": "./labelsTr/BraTS2021_00099.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00100.nii.gz",
+            "label": "./labelsTr/BraTS2021_00100.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00101.nii.gz",
+            "label": "./labelsTr/BraTS2021_00101.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00102.nii.gz",
+            "label": "./labelsTr/BraTS2021_00102.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00103.nii.gz",
+            "label": "./labelsTr/BraTS2021_00103.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00104.nii.gz",
+            "label": "./labelsTr/BraTS2021_00104.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00105.nii.gz",
+            "label": "./labelsTr/BraTS2021_00105.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00106.nii.gz",
+            "label": "./labelsTr/BraTS2021_00106.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00107.nii.gz",
+            "label": "./labelsTr/BraTS2021_00107.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00108.nii.gz",
+            "label": "./labelsTr/BraTS2021_00108.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00109.nii.gz",
+            "label": "./labelsTr/BraTS2021_00109.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00110.nii.gz",
+            "label": "./labelsTr/BraTS2021_00110.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00111.nii.gz",
+            "label": "./labelsTr/BraTS2021_00111.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00112.nii.gz",
+            "label": "./labelsTr/BraTS2021_00112.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00113.nii.gz",
+            "label": "./labelsTr/BraTS2021_00113.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00115.nii.gz",
+            "label": "./labelsTr/BraTS2021_00115.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00116.nii.gz",
+            "label": "./labelsTr/BraTS2021_00116.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00117.nii.gz",
+            "label": "./labelsTr/BraTS2021_00117.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00118.nii.gz",
+            "label": "./labelsTr/BraTS2021_00118.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00120.nii.gz",
+            "label": "./labelsTr/BraTS2021_00120.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00121.nii.gz",
+            "label": "./labelsTr/BraTS2021_00121.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00122.nii.gz",
+            "label": "./labelsTr/BraTS2021_00122.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00123.nii.gz",
+            "label": "./labelsTr/BraTS2021_00123.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00124.nii.gz",
+            "label": "./labelsTr/BraTS2021_00124.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00126.nii.gz",
+            "label": "./labelsTr/BraTS2021_00126.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00127.nii.gz",
+            "label": "./labelsTr/BraTS2021_00127.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00128.nii.gz",
+            "label": "./labelsTr/BraTS2021_00128.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00130.nii.gz",
+            "label": "./labelsTr/BraTS2021_00130.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00131.nii.gz",
+            "label": "./labelsTr/BraTS2021_00131.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00132.nii.gz",
+            "label": "./labelsTr/BraTS2021_00132.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00133.nii.gz",
+            "label": "./labelsTr/BraTS2021_00133.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00134.nii.gz",
+            "label": "./labelsTr/BraTS2021_00134.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00136.nii.gz",
+            "label": "./labelsTr/BraTS2021_00136.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00137.nii.gz",
+            "label": "./labelsTr/BraTS2021_00137.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00138.nii.gz",
+            "label": "./labelsTr/BraTS2021_00138.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00139.nii.gz",
+            "label": "./labelsTr/BraTS2021_00139.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00140.nii.gz",
+            "label": "./labelsTr/BraTS2021_00140.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00142.nii.gz",
+            "label": "./labelsTr/BraTS2021_00142.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00143.nii.gz",
+            "label": "./labelsTr/BraTS2021_00143.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00144.nii.gz",
+            "label": "./labelsTr/BraTS2021_00144.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00146.nii.gz",
+            "label": "./labelsTr/BraTS2021_00146.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00147.nii.gz",
+            "label": "./labelsTr/BraTS2021_00147.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00148.nii.gz",
+            "label": "./labelsTr/BraTS2021_00148.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00149.nii.gz",
+            "label": "./labelsTr/BraTS2021_00149.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00150.nii.gz",
+            "label": "./labelsTr/BraTS2021_00150.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00151.nii.gz",
+            "label": "./labelsTr/BraTS2021_00151.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00152.nii.gz",
+            "label": "./labelsTr/BraTS2021_00152.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00154.nii.gz",
+            "label": "./labelsTr/BraTS2021_00154.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00155.nii.gz",
+            "label": "./labelsTr/BraTS2021_00155.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00156.nii.gz",
+            "label": "./labelsTr/BraTS2021_00156.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00157.nii.gz",
+            "label": "./labelsTr/BraTS2021_00157.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00158.nii.gz",
+            "label": "./labelsTr/BraTS2021_00158.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00159.nii.gz",
+            "label": "./labelsTr/BraTS2021_00159.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00160.nii.gz",
+            "label": "./labelsTr/BraTS2021_00160.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00162.nii.gz",
+            "label": "./labelsTr/BraTS2021_00162.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00165.nii.gz",
+            "label": "./labelsTr/BraTS2021_00165.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00166.nii.gz",
+            "label": "./labelsTr/BraTS2021_00166.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00167.nii.gz",
+            "label": "./labelsTr/BraTS2021_00167.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00170.nii.gz",
+            "label": "./labelsTr/BraTS2021_00170.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00171.nii.gz",
+            "label": "./labelsTr/BraTS2021_00171.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00172.nii.gz",
+            "label": "./labelsTr/BraTS2021_00172.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00176.nii.gz",
+            "label": "./labelsTr/BraTS2021_00176.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00177.nii.gz",
+            "label": "./labelsTr/BraTS2021_00177.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00178.nii.gz",
+            "label": "./labelsTr/BraTS2021_00178.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00183.nii.gz",
+            "label": "./labelsTr/BraTS2021_00183.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00184.nii.gz",
+            "label": "./labelsTr/BraTS2021_00184.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00185.nii.gz",
+            "label": "./labelsTr/BraTS2021_00185.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00186.nii.gz",
+            "label": "./labelsTr/BraTS2021_00186.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00187.nii.gz",
+            "label": "./labelsTr/BraTS2021_00187.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00188.nii.gz",
+            "label": "./labelsTr/BraTS2021_00188.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00191.nii.gz",
+            "label": "./labelsTr/BraTS2021_00191.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00192.nii.gz",
+            "label": "./labelsTr/BraTS2021_00192.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00193.nii.gz",
+            "label": "./labelsTr/BraTS2021_00193.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00194.nii.gz",
+            "label": "./labelsTr/BraTS2021_00194.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00195.nii.gz",
+            "label": "./labelsTr/BraTS2021_00195.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00196.nii.gz",
+            "label": "./labelsTr/BraTS2021_00196.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00199.nii.gz",
+            "label": "./labelsTr/BraTS2021_00199.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00201.nii.gz",
+            "label": "./labelsTr/BraTS2021_00201.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00203.nii.gz",
+            "label": "./labelsTr/BraTS2021_00203.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00204.nii.gz",
+            "label": "./labelsTr/BraTS2021_00204.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00206.nii.gz",
+            "label": "./labelsTr/BraTS2021_00206.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00207.nii.gz",
+            "label": "./labelsTr/BraTS2021_00207.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00209.nii.gz",
+            "label": "./labelsTr/BraTS2021_00209.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00210.nii.gz",
+            "label": "./labelsTr/BraTS2021_00210.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00211.nii.gz",
+            "label": "./labelsTr/BraTS2021_00211.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00212.nii.gz",
+            "label": "./labelsTr/BraTS2021_00212.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00214.nii.gz",
+            "label": "./labelsTr/BraTS2021_00214.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00216.nii.gz",
+            "label": "./labelsTr/BraTS2021_00216.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00217.nii.gz",
+            "label": "./labelsTr/BraTS2021_00217.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00218.nii.gz",
+            "label": "./labelsTr/BraTS2021_00218.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00219.nii.gz",
+            "label": "./labelsTr/BraTS2021_00219.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00220.nii.gz",
+            "label": "./labelsTr/BraTS2021_00220.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00221.nii.gz",
+            "label": "./labelsTr/BraTS2021_00221.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00222.nii.gz",
+            "label": "./labelsTr/BraTS2021_00222.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00227.nii.gz",
+            "label": "./labelsTr/BraTS2021_00227.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00228.nii.gz",
+            "label": "./labelsTr/BraTS2021_00228.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00230.nii.gz",
+            "label": "./labelsTr/BraTS2021_00230.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00231.nii.gz",
+            "label": "./labelsTr/BraTS2021_00231.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00233.nii.gz",
+            "label": "./labelsTr/BraTS2021_00233.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00234.nii.gz",
+            "label": "./labelsTr/BraTS2021_00234.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00235.nii.gz",
+            "label": "./labelsTr/BraTS2021_00235.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00236.nii.gz",
+            "label": "./labelsTr/BraTS2021_00236.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00237.nii.gz",
+            "label": "./labelsTr/BraTS2021_00237.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00238.nii.gz",
+            "label": "./labelsTr/BraTS2021_00238.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00239.nii.gz",
+            "label": "./labelsTr/BraTS2021_00239.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00240.nii.gz",
+            "label": "./labelsTr/BraTS2021_00240.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00241.nii.gz",
+            "label": "./labelsTr/BraTS2021_00241.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00242.nii.gz",
+            "label": "./labelsTr/BraTS2021_00242.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00243.nii.gz",
+            "label": "./labelsTr/BraTS2021_00243.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00246.nii.gz",
+            "label": "./labelsTr/BraTS2021_00246.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00247.nii.gz",
+            "label": "./labelsTr/BraTS2021_00247.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00249.nii.gz",
+            "label": "./labelsTr/BraTS2021_00249.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00250.nii.gz",
+            "label": "./labelsTr/BraTS2021_00250.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00251.nii.gz",
+            "label": "./labelsTr/BraTS2021_00251.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00253.nii.gz",
+            "label": "./labelsTr/BraTS2021_00253.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00254.nii.gz",
+            "label": "./labelsTr/BraTS2021_00254.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00258.nii.gz",
+            "label": "./labelsTr/BraTS2021_00258.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00259.nii.gz",
+            "label": "./labelsTr/BraTS2021_00259.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00260.nii.gz",
+            "label": "./labelsTr/BraTS2021_00260.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00261.nii.gz",
+            "label": "./labelsTr/BraTS2021_00261.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00262.nii.gz",
+            "label": "./labelsTr/BraTS2021_00262.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00263.nii.gz",
+            "label": "./labelsTr/BraTS2021_00263.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00266.nii.gz",
+            "label": "./labelsTr/BraTS2021_00266.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00267.nii.gz",
+            "label": "./labelsTr/BraTS2021_00267.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00269.nii.gz",
+            "label": "./labelsTr/BraTS2021_00269.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00270.nii.gz",
+            "label": "./labelsTr/BraTS2021_00270.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00271.nii.gz",
+            "label": "./labelsTr/BraTS2021_00271.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00273.nii.gz",
+            "label": "./labelsTr/BraTS2021_00273.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00274.nii.gz",
+            "label": "./labelsTr/BraTS2021_00274.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00275.nii.gz",
+            "label": "./labelsTr/BraTS2021_00275.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00280.nii.gz",
+            "label": "./labelsTr/BraTS2021_00280.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00281.nii.gz",
+            "label": "./labelsTr/BraTS2021_00281.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00282.nii.gz",
+            "label": "./labelsTr/BraTS2021_00282.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00283.nii.gz",
+            "label": "./labelsTr/BraTS2021_00283.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00284.nii.gz",
+            "label": "./labelsTr/BraTS2021_00284.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00285.nii.gz",
+            "label": "./labelsTr/BraTS2021_00285.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00286.nii.gz",
+            "label": "./labelsTr/BraTS2021_00286.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00288.nii.gz",
+            "label": "./labelsTr/BraTS2021_00288.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00289.nii.gz",
+            "label": "./labelsTr/BraTS2021_00289.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00290.nii.gz",
+            "label": "./labelsTr/BraTS2021_00290.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00291.nii.gz",
+            "label": "./labelsTr/BraTS2021_00291.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00292.nii.gz",
+            "label": "./labelsTr/BraTS2021_00292.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00293.nii.gz",
+            "label": "./labelsTr/BraTS2021_00293.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00294.nii.gz",
+            "label": "./labelsTr/BraTS2021_00294.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00296.nii.gz",
+            "label": "./labelsTr/BraTS2021_00296.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00297.nii.gz",
+            "label": "./labelsTr/BraTS2021_00297.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00298.nii.gz",
+            "label": "./labelsTr/BraTS2021_00298.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00299.nii.gz",
+            "label": "./labelsTr/BraTS2021_00299.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00300.nii.gz",
+            "label": "./labelsTr/BraTS2021_00300.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00301.nii.gz",
+            "label": "./labelsTr/BraTS2021_00301.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00303.nii.gz",
+            "label": "./labelsTr/BraTS2021_00303.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00304.nii.gz",
+            "label": "./labelsTr/BraTS2021_00304.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00305.nii.gz",
+            "label": "./labelsTr/BraTS2021_00305.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00306.nii.gz",
+            "label": "./labelsTr/BraTS2021_00306.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00309.nii.gz",
+            "label": "./labelsTr/BraTS2021_00309.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00310.nii.gz",
+            "label": "./labelsTr/BraTS2021_00310.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00311.nii.gz",
+            "label": "./labelsTr/BraTS2021_00311.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00312.nii.gz",
+            "label": "./labelsTr/BraTS2021_00312.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00313.nii.gz",
+            "label": "./labelsTr/BraTS2021_00313.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00314.nii.gz",
+            "label": "./labelsTr/BraTS2021_00314.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00316.nii.gz",
+            "label": "./labelsTr/BraTS2021_00316.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00317.nii.gz",
+            "label": "./labelsTr/BraTS2021_00317.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00318.nii.gz",
+            "label": "./labelsTr/BraTS2021_00318.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00320.nii.gz",
+            "label": "./labelsTr/BraTS2021_00320.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00321.nii.gz",
+            "label": "./labelsTr/BraTS2021_00321.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00322.nii.gz",
+            "label": "./labelsTr/BraTS2021_00322.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00324.nii.gz",
+            "label": "./labelsTr/BraTS2021_00324.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00325.nii.gz",
+            "label": "./labelsTr/BraTS2021_00325.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00327.nii.gz",
+            "label": "./labelsTr/BraTS2021_00327.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00328.nii.gz",
+            "label": "./labelsTr/BraTS2021_00328.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00329.nii.gz",
+            "label": "./labelsTr/BraTS2021_00329.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00331.nii.gz",
+            "label": "./labelsTr/BraTS2021_00331.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00332.nii.gz",
+            "label": "./labelsTr/BraTS2021_00332.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00334.nii.gz",
+            "label": "./labelsTr/BraTS2021_00334.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00336.nii.gz",
+            "label": "./labelsTr/BraTS2021_00336.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00338.nii.gz",
+            "label": "./labelsTr/BraTS2021_00338.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00339.nii.gz",
+            "label": "./labelsTr/BraTS2021_00339.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00340.nii.gz",
+            "label": "./labelsTr/BraTS2021_00340.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00341.nii.gz",
+            "label": "./labelsTr/BraTS2021_00341.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00343.nii.gz",
+            "label": "./labelsTr/BraTS2021_00343.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00344.nii.gz",
+            "label": "./labelsTr/BraTS2021_00344.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00346.nii.gz",
+            "label": "./labelsTr/BraTS2021_00346.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00347.nii.gz",
+            "label": "./labelsTr/BraTS2021_00347.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00348.nii.gz",
+            "label": "./labelsTr/BraTS2021_00348.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00349.nii.gz",
+            "label": "./labelsTr/BraTS2021_00349.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00350.nii.gz",
+            "label": "./labelsTr/BraTS2021_00350.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00351.nii.gz",
+            "label": "./labelsTr/BraTS2021_00351.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00352.nii.gz",
+            "label": "./labelsTr/BraTS2021_00352.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00353.nii.gz",
+            "label": "./labelsTr/BraTS2021_00353.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00356.nii.gz",
+            "label": "./labelsTr/BraTS2021_00356.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00359.nii.gz",
+            "label": "./labelsTr/BraTS2021_00359.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00360.nii.gz",
+            "label": "./labelsTr/BraTS2021_00360.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00364.nii.gz",
+            "label": "./labelsTr/BraTS2021_00364.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00366.nii.gz",
+            "label": "./labelsTr/BraTS2021_00366.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00367.nii.gz",
+            "label": "./labelsTr/BraTS2021_00367.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00369.nii.gz",
+            "label": "./labelsTr/BraTS2021_00369.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00370.nii.gz",
+            "label": "./labelsTr/BraTS2021_00370.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00371.nii.gz",
+            "label": "./labelsTr/BraTS2021_00371.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00373.nii.gz",
+            "label": "./labelsTr/BraTS2021_00373.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00375.nii.gz",
+            "label": "./labelsTr/BraTS2021_00375.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00376.nii.gz",
+            "label": "./labelsTr/BraTS2021_00376.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00377.nii.gz",
+            "label": "./labelsTr/BraTS2021_00377.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00378.nii.gz",
+            "label": "./labelsTr/BraTS2021_00378.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00379.nii.gz",
+            "label": "./labelsTr/BraTS2021_00379.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00380.nii.gz",
+            "label": "./labelsTr/BraTS2021_00380.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00382.nii.gz",
+            "label": "./labelsTr/BraTS2021_00382.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00383.nii.gz",
+            "label": "./labelsTr/BraTS2021_00383.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00386.nii.gz",
+            "label": "./labelsTr/BraTS2021_00386.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00387.nii.gz",
+            "label": "./labelsTr/BraTS2021_00387.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00388.nii.gz",
+            "label": "./labelsTr/BraTS2021_00388.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00389.nii.gz",
+            "label": "./labelsTr/BraTS2021_00389.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00390.nii.gz",
+            "label": "./labelsTr/BraTS2021_00390.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00391.nii.gz",
+            "label": "./labelsTr/BraTS2021_00391.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00392.nii.gz",
+            "label": "./labelsTr/BraTS2021_00392.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00395.nii.gz",
+            "label": "./labelsTr/BraTS2021_00395.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00397.nii.gz",
+            "label": "./labelsTr/BraTS2021_00397.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00399.nii.gz",
+            "label": "./labelsTr/BraTS2021_00399.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00400.nii.gz",
+            "label": "./labelsTr/BraTS2021_00400.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00401.nii.gz",
+            "label": "./labelsTr/BraTS2021_00401.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00402.nii.gz",
+            "label": "./labelsTr/BraTS2021_00402.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00403.nii.gz",
+            "label": "./labelsTr/BraTS2021_00403.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00404.nii.gz",
+            "label": "./labelsTr/BraTS2021_00404.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00405.nii.gz",
+            "label": "./labelsTr/BraTS2021_00405.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00406.nii.gz",
+            "label": "./labelsTr/BraTS2021_00406.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00407.nii.gz",
+            "label": "./labelsTr/BraTS2021_00407.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00409.nii.gz",
+            "label": "./labelsTr/BraTS2021_00409.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00410.nii.gz",
+            "label": "./labelsTr/BraTS2021_00410.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00412.nii.gz",
+            "label": "./labelsTr/BraTS2021_00412.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00413.nii.gz",
+            "label": "./labelsTr/BraTS2021_00413.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00414.nii.gz",
+            "label": "./labelsTr/BraTS2021_00414.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00416.nii.gz",
+            "label": "./labelsTr/BraTS2021_00416.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00417.nii.gz",
+            "label": "./labelsTr/BraTS2021_00417.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00418.nii.gz",
+            "label": "./labelsTr/BraTS2021_00418.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00419.nii.gz",
+            "label": "./labelsTr/BraTS2021_00419.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00421.nii.gz",
+            "label": "./labelsTr/BraTS2021_00421.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00423.nii.gz",
+            "label": "./labelsTr/BraTS2021_00423.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00425.nii.gz",
+            "label": "./labelsTr/BraTS2021_00425.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00426.nii.gz",
+            "label": "./labelsTr/BraTS2021_00426.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00429.nii.gz",
+            "label": "./labelsTr/BraTS2021_00429.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00430.nii.gz",
+            "label": "./labelsTr/BraTS2021_00430.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00431.nii.gz",
+            "label": "./labelsTr/BraTS2021_00431.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00432.nii.gz",
+            "label": "./labelsTr/BraTS2021_00432.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00433.nii.gz",
+            "label": "./labelsTr/BraTS2021_00433.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00436.nii.gz",
+            "label": "./labelsTr/BraTS2021_00436.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00440.nii.gz",
+            "label": "./labelsTr/BraTS2021_00440.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00441.nii.gz",
+            "label": "./labelsTr/BraTS2021_00441.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00442.nii.gz",
+            "label": "./labelsTr/BraTS2021_00442.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00443.nii.gz",
+            "label": "./labelsTr/BraTS2021_00443.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00444.nii.gz",
+            "label": "./labelsTr/BraTS2021_00444.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00445.nii.gz",
+            "label": "./labelsTr/BraTS2021_00445.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00446.nii.gz",
+            "label": "./labelsTr/BraTS2021_00446.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00448.nii.gz",
+            "label": "./labelsTr/BraTS2021_00448.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00449.nii.gz",
+            "label": "./labelsTr/BraTS2021_00449.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00451.nii.gz",
+            "label": "./labelsTr/BraTS2021_00451.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00452.nii.gz",
+            "label": "./labelsTr/BraTS2021_00452.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00453.nii.gz",
+            "label": "./labelsTr/BraTS2021_00453.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00454.nii.gz",
+            "label": "./labelsTr/BraTS2021_00454.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00455.nii.gz",
+            "label": "./labelsTr/BraTS2021_00455.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00456.nii.gz",
+            "label": "./labelsTr/BraTS2021_00456.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00457.nii.gz",
+            "label": "./labelsTr/BraTS2021_00457.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00459.nii.gz",
+            "label": "./labelsTr/BraTS2021_00459.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00464.nii.gz",
+            "label": "./labelsTr/BraTS2021_00464.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00466.nii.gz",
+            "label": "./labelsTr/BraTS2021_00466.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00468.nii.gz",
+            "label": "./labelsTr/BraTS2021_00468.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00469.nii.gz",
+            "label": "./labelsTr/BraTS2021_00469.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00470.nii.gz",
+            "label": "./labelsTr/BraTS2021_00470.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00472.nii.gz",
+            "label": "./labelsTr/BraTS2021_00472.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00477.nii.gz",
+            "label": "./labelsTr/BraTS2021_00477.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00478.nii.gz",
+            "label": "./labelsTr/BraTS2021_00478.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00479.nii.gz",
+            "label": "./labelsTr/BraTS2021_00479.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00480.nii.gz",
+            "label": "./labelsTr/BraTS2021_00480.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00481.nii.gz",
+            "label": "./labelsTr/BraTS2021_00481.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00483.nii.gz",
+            "label": "./labelsTr/BraTS2021_00483.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00485.nii.gz",
+            "label": "./labelsTr/BraTS2021_00485.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00488.nii.gz",
+            "label": "./labelsTr/BraTS2021_00488.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00491.nii.gz",
+            "label": "./labelsTr/BraTS2021_00491.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00493.nii.gz",
+            "label": "./labelsTr/BraTS2021_00493.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00494.nii.gz",
+            "label": "./labelsTr/BraTS2021_00494.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00495.nii.gz",
+            "label": "./labelsTr/BraTS2021_00495.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00496.nii.gz",
+            "label": "./labelsTr/BraTS2021_00496.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00498.nii.gz",
+            "label": "./labelsTr/BraTS2021_00498.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00499.nii.gz",
+            "label": "./labelsTr/BraTS2021_00499.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00500.nii.gz",
+            "label": "./labelsTr/BraTS2021_00500.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00501.nii.gz",
+            "label": "./labelsTr/BraTS2021_00501.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00502.nii.gz",
+            "label": "./labelsTr/BraTS2021_00502.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00504.nii.gz",
+            "label": "./labelsTr/BraTS2021_00504.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00505.nii.gz",
+            "label": "./labelsTr/BraTS2021_00505.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00506.nii.gz",
+            "label": "./labelsTr/BraTS2021_00506.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00507.nii.gz",
+            "label": "./labelsTr/BraTS2021_00507.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00510.nii.gz",
+            "label": "./labelsTr/BraTS2021_00510.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00511.nii.gz",
+            "label": "./labelsTr/BraTS2021_00511.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00512.nii.gz",
+            "label": "./labelsTr/BraTS2021_00512.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00513.nii.gz",
+            "label": "./labelsTr/BraTS2021_00513.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00514.nii.gz",
+            "label": "./labelsTr/BraTS2021_00514.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00516.nii.gz",
+            "label": "./labelsTr/BraTS2021_00516.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00517.nii.gz",
+            "label": "./labelsTr/BraTS2021_00517.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00518.nii.gz",
+            "label": "./labelsTr/BraTS2021_00518.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00519.nii.gz",
+            "label": "./labelsTr/BraTS2021_00519.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00520.nii.gz",
+            "label": "./labelsTr/BraTS2021_00520.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00523.nii.gz",
+            "label": "./labelsTr/BraTS2021_00523.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00524.nii.gz",
+            "label": "./labelsTr/BraTS2021_00524.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00525.nii.gz",
+            "label": "./labelsTr/BraTS2021_00525.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00526.nii.gz",
+            "label": "./labelsTr/BraTS2021_00526.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00528.nii.gz",
+            "label": "./labelsTr/BraTS2021_00528.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00529.nii.gz",
+            "label": "./labelsTr/BraTS2021_00529.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00530.nii.gz",
+            "label": "./labelsTr/BraTS2021_00530.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00532.nii.gz",
+            "label": "./labelsTr/BraTS2021_00532.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00533.nii.gz",
+            "label": "./labelsTr/BraTS2021_00533.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00537.nii.gz",
+            "label": "./labelsTr/BraTS2021_00537.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00538.nii.gz",
+            "label": "./labelsTr/BraTS2021_00538.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00539.nii.gz",
+            "label": "./labelsTr/BraTS2021_00539.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00540.nii.gz",
+            "label": "./labelsTr/BraTS2021_00540.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00542.nii.gz",
+            "label": "./labelsTr/BraTS2021_00542.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00543.nii.gz",
+            "label": "./labelsTr/BraTS2021_00543.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00544.nii.gz",
+            "label": "./labelsTr/BraTS2021_00544.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00545.nii.gz",
+            "label": "./labelsTr/BraTS2021_00545.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00547.nii.gz",
+            "label": "./labelsTr/BraTS2021_00547.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00548.nii.gz",
+            "label": "./labelsTr/BraTS2021_00548.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00549.nii.gz",
+            "label": "./labelsTr/BraTS2021_00549.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00550.nii.gz",
+            "label": "./labelsTr/BraTS2021_00550.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00551.nii.gz",
+            "label": "./labelsTr/BraTS2021_00551.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00552.nii.gz",
+            "label": "./labelsTr/BraTS2021_00552.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00554.nii.gz",
+            "label": "./labelsTr/BraTS2021_00554.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00555.nii.gz",
+            "label": "./labelsTr/BraTS2021_00555.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00556.nii.gz",
+            "label": "./labelsTr/BraTS2021_00556.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00557.nii.gz",
+            "label": "./labelsTr/BraTS2021_00557.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00558.nii.gz",
+            "label": "./labelsTr/BraTS2021_00558.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00559.nii.gz",
+            "label": "./labelsTr/BraTS2021_00559.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00561.nii.gz",
+            "label": "./labelsTr/BraTS2021_00561.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00563.nii.gz",
+            "label": "./labelsTr/BraTS2021_00563.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00565.nii.gz",
+            "label": "./labelsTr/BraTS2021_00565.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00567.nii.gz",
+            "label": "./labelsTr/BraTS2021_00567.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00568.nii.gz",
+            "label": "./labelsTr/BraTS2021_00568.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00569.nii.gz",
+            "label": "./labelsTr/BraTS2021_00569.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00570.nii.gz",
+            "label": "./labelsTr/BraTS2021_00570.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00571.nii.gz",
+            "label": "./labelsTr/BraTS2021_00571.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00572.nii.gz",
+            "label": "./labelsTr/BraTS2021_00572.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00574.nii.gz",
+            "label": "./labelsTr/BraTS2021_00574.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00575.nii.gz",
+            "label": "./labelsTr/BraTS2021_00575.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00576.nii.gz",
+            "label": "./labelsTr/BraTS2021_00576.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00577.nii.gz",
+            "label": "./labelsTr/BraTS2021_00577.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00578.nii.gz",
+            "label": "./labelsTr/BraTS2021_00578.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00579.nii.gz",
+            "label": "./labelsTr/BraTS2021_00579.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00580.nii.gz",
+            "label": "./labelsTr/BraTS2021_00580.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00581.nii.gz",
+            "label": "./labelsTr/BraTS2021_00581.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00582.nii.gz",
+            "label": "./labelsTr/BraTS2021_00582.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00583.nii.gz",
+            "label": "./labelsTr/BraTS2021_00583.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00584.nii.gz",
+            "label": "./labelsTr/BraTS2021_00584.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00586.nii.gz",
+            "label": "./labelsTr/BraTS2021_00586.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00587.nii.gz",
+            "label": "./labelsTr/BraTS2021_00587.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00588.nii.gz",
+            "label": "./labelsTr/BraTS2021_00588.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00589.nii.gz",
+            "label": "./labelsTr/BraTS2021_00589.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00590.nii.gz",
+            "label": "./labelsTr/BraTS2021_00590.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00591.nii.gz",
+            "label": "./labelsTr/BraTS2021_00591.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00593.nii.gz",
+            "label": "./labelsTr/BraTS2021_00593.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00594.nii.gz",
+            "label": "./labelsTr/BraTS2021_00594.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00596.nii.gz",
+            "label": "./labelsTr/BraTS2021_00596.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00597.nii.gz",
+            "label": "./labelsTr/BraTS2021_00597.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00598.nii.gz",
+            "label": "./labelsTr/BraTS2021_00598.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00599.nii.gz",
+            "label": "./labelsTr/BraTS2021_00599.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00601.nii.gz",
+            "label": "./labelsTr/BraTS2021_00601.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00602.nii.gz",
+            "label": "./labelsTr/BraTS2021_00602.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00604.nii.gz",
+            "label": "./labelsTr/BraTS2021_00604.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00605.nii.gz",
+            "label": "./labelsTr/BraTS2021_00605.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00606.nii.gz",
+            "label": "./labelsTr/BraTS2021_00606.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00607.nii.gz",
+            "label": "./labelsTr/BraTS2021_00607.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00608.nii.gz",
+            "label": "./labelsTr/BraTS2021_00608.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00610.nii.gz",
+            "label": "./labelsTr/BraTS2021_00610.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00611.nii.gz",
+            "label": "./labelsTr/BraTS2021_00611.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00612.nii.gz",
+            "label": "./labelsTr/BraTS2021_00612.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00613.nii.gz",
+            "label": "./labelsTr/BraTS2021_00613.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00615.nii.gz",
+            "label": "./labelsTr/BraTS2021_00615.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00616.nii.gz",
+            "label": "./labelsTr/BraTS2021_00616.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00618.nii.gz",
+            "label": "./labelsTr/BraTS2021_00618.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00619.nii.gz",
+            "label": "./labelsTr/BraTS2021_00619.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00620.nii.gz",
+            "label": "./labelsTr/BraTS2021_00620.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00621.nii.gz",
+            "label": "./labelsTr/BraTS2021_00621.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00622.nii.gz",
+            "label": "./labelsTr/BraTS2021_00622.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00623.nii.gz",
+            "label": "./labelsTr/BraTS2021_00623.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00624.nii.gz",
+            "label": "./labelsTr/BraTS2021_00624.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00625.nii.gz",
+            "label": "./labelsTr/BraTS2021_00625.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00626.nii.gz",
+            "label": "./labelsTr/BraTS2021_00626.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00628.nii.gz",
+            "label": "./labelsTr/BraTS2021_00628.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00630.nii.gz",
+            "label": "./labelsTr/BraTS2021_00630.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00631.nii.gz",
+            "label": "./labelsTr/BraTS2021_00631.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00636.nii.gz",
+            "label": "./labelsTr/BraTS2021_00636.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00638.nii.gz",
+            "label": "./labelsTr/BraTS2021_00638.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00639.nii.gz",
+            "label": "./labelsTr/BraTS2021_00639.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00640.nii.gz",
+            "label": "./labelsTr/BraTS2021_00640.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00641.nii.gz",
+            "label": "./labelsTr/BraTS2021_00641.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00642.nii.gz",
+            "label": "./labelsTr/BraTS2021_00642.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00645.nii.gz",
+            "label": "./labelsTr/BraTS2021_00645.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00646.nii.gz",
+            "label": "./labelsTr/BraTS2021_00646.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00649.nii.gz",
+            "label": "./labelsTr/BraTS2021_00649.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00650.nii.gz",
+            "label": "./labelsTr/BraTS2021_00650.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00651.nii.gz",
+            "label": "./labelsTr/BraTS2021_00651.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00652.nii.gz",
+            "label": "./labelsTr/BraTS2021_00652.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00654.nii.gz",
+            "label": "./labelsTr/BraTS2021_00654.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00655.nii.gz",
+            "label": "./labelsTr/BraTS2021_00655.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00656.nii.gz",
+            "label": "./labelsTr/BraTS2021_00656.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00657.nii.gz",
+            "label": "./labelsTr/BraTS2021_00657.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00658.nii.gz",
+            "label": "./labelsTr/BraTS2021_00658.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00659.nii.gz",
+            "label": "./labelsTr/BraTS2021_00659.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00661.nii.gz",
+            "label": "./labelsTr/BraTS2021_00661.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00663.nii.gz",
+            "label": "./labelsTr/BraTS2021_00663.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00667.nii.gz",
+            "label": "./labelsTr/BraTS2021_00667.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00668.nii.gz",
+            "label": "./labelsTr/BraTS2021_00668.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00674.nii.gz",
+            "label": "./labelsTr/BraTS2021_00674.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00675.nii.gz",
+            "label": "./labelsTr/BraTS2021_00675.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00676.nii.gz",
+            "label": "./labelsTr/BraTS2021_00676.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00677.nii.gz",
+            "label": "./labelsTr/BraTS2021_00677.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00679.nii.gz",
+            "label": "./labelsTr/BraTS2021_00679.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00680.nii.gz",
+            "label": "./labelsTr/BraTS2021_00680.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00682.nii.gz",
+            "label": "./labelsTr/BraTS2021_00682.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00683.nii.gz",
+            "label": "./labelsTr/BraTS2021_00683.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00684.nii.gz",
+            "label": "./labelsTr/BraTS2021_00684.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00685.nii.gz",
+            "label": "./labelsTr/BraTS2021_00685.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00686.nii.gz",
+            "label": "./labelsTr/BraTS2021_00686.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00687.nii.gz",
+            "label": "./labelsTr/BraTS2021_00687.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00688.nii.gz",
+            "label": "./labelsTr/BraTS2021_00688.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00689.nii.gz",
+            "label": "./labelsTr/BraTS2021_00689.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00690.nii.gz",
+            "label": "./labelsTr/BraTS2021_00690.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00691.nii.gz",
+            "label": "./labelsTr/BraTS2021_00691.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00692.nii.gz",
+            "label": "./labelsTr/BraTS2021_00692.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00693.nii.gz",
+            "label": "./labelsTr/BraTS2021_00693.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00694.nii.gz",
+            "label": "./labelsTr/BraTS2021_00694.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00697.nii.gz",
+            "label": "./labelsTr/BraTS2021_00697.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00698.nii.gz",
+            "label": "./labelsTr/BraTS2021_00698.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00703.nii.gz",
+            "label": "./labelsTr/BraTS2021_00703.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00704.nii.gz",
+            "label": "./labelsTr/BraTS2021_00704.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00705.nii.gz",
+            "label": "./labelsTr/BraTS2021_00705.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00706.nii.gz",
+            "label": "./labelsTr/BraTS2021_00706.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00707.nii.gz",
+            "label": "./labelsTr/BraTS2021_00707.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00708.nii.gz",
+            "label": "./labelsTr/BraTS2021_00708.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00709.nii.gz",
+            "label": "./labelsTr/BraTS2021_00709.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00714.nii.gz",
+            "label": "./labelsTr/BraTS2021_00714.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00715.nii.gz",
+            "label": "./labelsTr/BraTS2021_00715.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00716.nii.gz",
+            "label": "./labelsTr/BraTS2021_00716.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00718.nii.gz",
+            "label": "./labelsTr/BraTS2021_00718.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00723.nii.gz",
+            "label": "./labelsTr/BraTS2021_00723.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00724.nii.gz",
+            "label": "./labelsTr/BraTS2021_00724.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00725.nii.gz",
+            "label": "./labelsTr/BraTS2021_00725.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00727.nii.gz",
+            "label": "./labelsTr/BraTS2021_00727.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00728.nii.gz",
+            "label": "./labelsTr/BraTS2021_00728.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00729.nii.gz",
+            "label": "./labelsTr/BraTS2021_00729.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00730.nii.gz",
+            "label": "./labelsTr/BraTS2021_00730.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00731.nii.gz",
+            "label": "./labelsTr/BraTS2021_00731.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00732.nii.gz",
+            "label": "./labelsTr/BraTS2021_00732.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00733.nii.gz",
+            "label": "./labelsTr/BraTS2021_00733.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00734.nii.gz",
+            "label": "./labelsTr/BraTS2021_00734.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00735.nii.gz",
+            "label": "./labelsTr/BraTS2021_00735.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00736.nii.gz",
+            "label": "./labelsTr/BraTS2021_00736.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00737.nii.gz",
+            "label": "./labelsTr/BraTS2021_00737.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00739.nii.gz",
+            "label": "./labelsTr/BraTS2021_00739.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00740.nii.gz",
+            "label": "./labelsTr/BraTS2021_00740.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00742.nii.gz",
+            "label": "./labelsTr/BraTS2021_00742.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00744.nii.gz",
+            "label": "./labelsTr/BraTS2021_00744.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00746.nii.gz",
+            "label": "./labelsTr/BraTS2021_00746.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00747.nii.gz",
+            "label": "./labelsTr/BraTS2021_00747.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00750.nii.gz",
+            "label": "./labelsTr/BraTS2021_00750.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00751.nii.gz",
+            "label": "./labelsTr/BraTS2021_00751.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00753.nii.gz",
+            "label": "./labelsTr/BraTS2021_00753.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00756.nii.gz",
+            "label": "./labelsTr/BraTS2021_00756.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00757.nii.gz",
+            "label": "./labelsTr/BraTS2021_00757.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00758.nii.gz",
+            "label": "./labelsTr/BraTS2021_00758.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00759.nii.gz",
+            "label": "./labelsTr/BraTS2021_00759.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00760.nii.gz",
+            "label": "./labelsTr/BraTS2021_00760.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00764.nii.gz",
+            "label": "./labelsTr/BraTS2021_00764.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00765.nii.gz",
+            "label": "./labelsTr/BraTS2021_00765.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00767.nii.gz",
+            "label": "./labelsTr/BraTS2021_00767.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00768.nii.gz",
+            "label": "./labelsTr/BraTS2021_00768.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00772.nii.gz",
+            "label": "./labelsTr/BraTS2021_00772.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00773.nii.gz",
+            "label": "./labelsTr/BraTS2021_00773.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00774.nii.gz",
+            "label": "./labelsTr/BraTS2021_00774.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00775.nii.gz",
+            "label": "./labelsTr/BraTS2021_00775.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00777.nii.gz",
+            "label": "./labelsTr/BraTS2021_00777.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00778.nii.gz",
+            "label": "./labelsTr/BraTS2021_00778.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00780.nii.gz",
+            "label": "./labelsTr/BraTS2021_00780.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00781.nii.gz",
+            "label": "./labelsTr/BraTS2021_00781.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00782.nii.gz",
+            "label": "./labelsTr/BraTS2021_00782.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00784.nii.gz",
+            "label": "./labelsTr/BraTS2021_00784.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00787.nii.gz",
+            "label": "./labelsTr/BraTS2021_00787.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00788.nii.gz",
+            "label": "./labelsTr/BraTS2021_00788.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00789.nii.gz",
+            "label": "./labelsTr/BraTS2021_00789.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00791.nii.gz",
+            "label": "./labelsTr/BraTS2021_00791.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00792.nii.gz",
+            "label": "./labelsTr/BraTS2021_00792.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00793.nii.gz",
+            "label": "./labelsTr/BraTS2021_00793.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00795.nii.gz",
+            "label": "./labelsTr/BraTS2021_00795.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00796.nii.gz",
+            "label": "./labelsTr/BraTS2021_00796.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00797.nii.gz",
+            "label": "./labelsTr/BraTS2021_00797.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00799.nii.gz",
+            "label": "./labelsTr/BraTS2021_00799.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00800.nii.gz",
+            "label": "./labelsTr/BraTS2021_00800.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00801.nii.gz",
+            "label": "./labelsTr/BraTS2021_00801.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00802.nii.gz",
+            "label": "./labelsTr/BraTS2021_00802.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00803.nii.gz",
+            "label": "./labelsTr/BraTS2021_00803.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00804.nii.gz",
+            "label": "./labelsTr/BraTS2021_00804.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00805.nii.gz",
+            "label": "./labelsTr/BraTS2021_00805.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00806.nii.gz",
+            "label": "./labelsTr/BraTS2021_00806.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00807.nii.gz",
+            "label": "./labelsTr/BraTS2021_00807.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00808.nii.gz",
+            "label": "./labelsTr/BraTS2021_00808.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00809.nii.gz",
+            "label": "./labelsTr/BraTS2021_00809.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00810.nii.gz",
+            "label": "./labelsTr/BraTS2021_00810.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00811.nii.gz",
+            "label": "./labelsTr/BraTS2021_00811.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00814.nii.gz",
+            "label": "./labelsTr/BraTS2021_00814.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00816.nii.gz",
+            "label": "./labelsTr/BraTS2021_00816.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00818.nii.gz",
+            "label": "./labelsTr/BraTS2021_00818.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00819.nii.gz",
+            "label": "./labelsTr/BraTS2021_00819.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00820.nii.gz",
+            "label": "./labelsTr/BraTS2021_00820.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00823.nii.gz",
+            "label": "./labelsTr/BraTS2021_00823.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00824.nii.gz",
+            "label": "./labelsTr/BraTS2021_00824.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00828.nii.gz",
+            "label": "./labelsTr/BraTS2021_00828.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00830.nii.gz",
+            "label": "./labelsTr/BraTS2021_00830.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00831.nii.gz",
+            "label": "./labelsTr/BraTS2021_00831.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00834.nii.gz",
+            "label": "./labelsTr/BraTS2021_00834.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00836.nii.gz",
+            "label": "./labelsTr/BraTS2021_00836.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00837.nii.gz",
+            "label": "./labelsTr/BraTS2021_00837.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00838.nii.gz",
+            "label": "./labelsTr/BraTS2021_00838.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00839.nii.gz",
+            "label": "./labelsTr/BraTS2021_00839.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00840.nii.gz",
+            "label": "./labelsTr/BraTS2021_00840.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_00999.nii.gz",
+            "label": "./labelsTr/BraTS2021_00999.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01000.nii.gz",
+            "label": "./labelsTr/BraTS2021_01000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01001.nii.gz",
+            "label": "./labelsTr/BraTS2021_01001.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01002.nii.gz",
+            "label": "./labelsTr/BraTS2021_01002.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01003.nii.gz",
+            "label": "./labelsTr/BraTS2021_01003.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01004.nii.gz",
+            "label": "./labelsTr/BraTS2021_01004.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01005.nii.gz",
+            "label": "./labelsTr/BraTS2021_01005.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01007.nii.gz",
+            "label": "./labelsTr/BraTS2021_01007.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01008.nii.gz",
+            "label": "./labelsTr/BraTS2021_01008.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01009.nii.gz",
+            "label": "./labelsTr/BraTS2021_01009.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01010.nii.gz",
+            "label": "./labelsTr/BraTS2021_01010.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01011.nii.gz",
+            "label": "./labelsTr/BraTS2021_01011.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01012.nii.gz",
+            "label": "./labelsTr/BraTS2021_01012.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01013.nii.gz",
+            "label": "./labelsTr/BraTS2021_01013.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01014.nii.gz",
+            "label": "./labelsTr/BraTS2021_01014.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01015.nii.gz",
+            "label": "./labelsTr/BraTS2021_01015.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01016.nii.gz",
+            "label": "./labelsTr/BraTS2021_01016.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01017.nii.gz",
+            "label": "./labelsTr/BraTS2021_01017.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01018.nii.gz",
+            "label": "./labelsTr/BraTS2021_01018.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01019.nii.gz",
+            "label": "./labelsTr/BraTS2021_01019.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01020.nii.gz",
+            "label": "./labelsTr/BraTS2021_01020.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01021.nii.gz",
+            "label": "./labelsTr/BraTS2021_01021.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01022.nii.gz",
+            "label": "./labelsTr/BraTS2021_01022.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01023.nii.gz",
+            "label": "./labelsTr/BraTS2021_01023.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01024.nii.gz",
+            "label": "./labelsTr/BraTS2021_01024.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01025.nii.gz",
+            "label": "./labelsTr/BraTS2021_01025.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01026.nii.gz",
+            "label": "./labelsTr/BraTS2021_01026.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01027.nii.gz",
+            "label": "./labelsTr/BraTS2021_01027.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01028.nii.gz",
+            "label": "./labelsTr/BraTS2021_01028.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01029.nii.gz",
+            "label": "./labelsTr/BraTS2021_01029.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01030.nii.gz",
+            "label": "./labelsTr/BraTS2021_01030.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01031.nii.gz",
+            "label": "./labelsTr/BraTS2021_01031.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01032.nii.gz",
+            "label": "./labelsTr/BraTS2021_01032.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01033.nii.gz",
+            "label": "./labelsTr/BraTS2021_01033.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01034.nii.gz",
+            "label": "./labelsTr/BraTS2021_01034.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01035.nii.gz",
+            "label": "./labelsTr/BraTS2021_01035.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01036.nii.gz",
+            "label": "./labelsTr/BraTS2021_01036.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01037.nii.gz",
+            "label": "./labelsTr/BraTS2021_01037.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01038.nii.gz",
+            "label": "./labelsTr/BraTS2021_01038.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01039.nii.gz",
+            "label": "./labelsTr/BraTS2021_01039.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01040.nii.gz",
+            "label": "./labelsTr/BraTS2021_01040.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01041.nii.gz",
+            "label": "./labelsTr/BraTS2021_01041.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01042.nii.gz",
+            "label": "./labelsTr/BraTS2021_01042.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01043.nii.gz",
+            "label": "./labelsTr/BraTS2021_01043.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01044.nii.gz",
+            "label": "./labelsTr/BraTS2021_01044.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01045.nii.gz",
+            "label": "./labelsTr/BraTS2021_01045.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01046.nii.gz",
+            "label": "./labelsTr/BraTS2021_01046.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01047.nii.gz",
+            "label": "./labelsTr/BraTS2021_01047.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01048.nii.gz",
+            "label": "./labelsTr/BraTS2021_01048.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01049.nii.gz",
+            "label": "./labelsTr/BraTS2021_01049.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01050.nii.gz",
+            "label": "./labelsTr/BraTS2021_01050.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01051.nii.gz",
+            "label": "./labelsTr/BraTS2021_01051.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01052.nii.gz",
+            "label": "./labelsTr/BraTS2021_01052.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01053.nii.gz",
+            "label": "./labelsTr/BraTS2021_01053.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01054.nii.gz",
+            "label": "./labelsTr/BraTS2021_01054.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01055.nii.gz",
+            "label": "./labelsTr/BraTS2021_01055.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01056.nii.gz",
+            "label": "./labelsTr/BraTS2021_01056.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01057.nii.gz",
+            "label": "./labelsTr/BraTS2021_01057.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01058.nii.gz",
+            "label": "./labelsTr/BraTS2021_01058.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01059.nii.gz",
+            "label": "./labelsTr/BraTS2021_01059.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01060.nii.gz",
+            "label": "./labelsTr/BraTS2021_01060.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01061.nii.gz",
+            "label": "./labelsTr/BraTS2021_01061.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01062.nii.gz",
+            "label": "./labelsTr/BraTS2021_01062.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01063.nii.gz",
+            "label": "./labelsTr/BraTS2021_01063.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01064.nii.gz",
+            "label": "./labelsTr/BraTS2021_01064.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01065.nii.gz",
+            "label": "./labelsTr/BraTS2021_01065.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01066.nii.gz",
+            "label": "./labelsTr/BraTS2021_01066.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01067.nii.gz",
+            "label": "./labelsTr/BraTS2021_01067.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01068.nii.gz",
+            "label": "./labelsTr/BraTS2021_01068.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01069.nii.gz",
+            "label": "./labelsTr/BraTS2021_01069.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01070.nii.gz",
+            "label": "./labelsTr/BraTS2021_01070.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01071.nii.gz",
+            "label": "./labelsTr/BraTS2021_01071.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01072.nii.gz",
+            "label": "./labelsTr/BraTS2021_01072.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01073.nii.gz",
+            "label": "./labelsTr/BraTS2021_01073.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01074.nii.gz",
+            "label": "./labelsTr/BraTS2021_01074.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01075.nii.gz",
+            "label": "./labelsTr/BraTS2021_01075.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01076.nii.gz",
+            "label": "./labelsTr/BraTS2021_01076.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01077.nii.gz",
+            "label": "./labelsTr/BraTS2021_01077.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01078.nii.gz",
+            "label": "./labelsTr/BraTS2021_01078.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01079.nii.gz",
+            "label": "./labelsTr/BraTS2021_01079.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01080.nii.gz",
+            "label": "./labelsTr/BraTS2021_01080.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01081.nii.gz",
+            "label": "./labelsTr/BraTS2021_01081.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01082.nii.gz",
+            "label": "./labelsTr/BraTS2021_01082.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01083.nii.gz",
+            "label": "./labelsTr/BraTS2021_01083.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01084.nii.gz",
+            "label": "./labelsTr/BraTS2021_01084.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01085.nii.gz",
+            "label": "./labelsTr/BraTS2021_01085.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01086.nii.gz",
+            "label": "./labelsTr/BraTS2021_01086.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01087.nii.gz",
+            "label": "./labelsTr/BraTS2021_01087.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01088.nii.gz",
+            "label": "./labelsTr/BraTS2021_01088.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01089.nii.gz",
+            "label": "./labelsTr/BraTS2021_01089.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01090.nii.gz",
+            "label": "./labelsTr/BraTS2021_01090.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01091.nii.gz",
+            "label": "./labelsTr/BraTS2021_01091.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01092.nii.gz",
+            "label": "./labelsTr/BraTS2021_01092.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01093.nii.gz",
+            "label": "./labelsTr/BraTS2021_01093.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01094.nii.gz",
+            "label": "./labelsTr/BraTS2021_01094.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01095.nii.gz",
+            "label": "./labelsTr/BraTS2021_01095.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01096.nii.gz",
+            "label": "./labelsTr/BraTS2021_01096.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01097.nii.gz",
+            "label": "./labelsTr/BraTS2021_01097.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01098.nii.gz",
+            "label": "./labelsTr/BraTS2021_01098.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01099.nii.gz",
+            "label": "./labelsTr/BraTS2021_01099.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01100.nii.gz",
+            "label": "./labelsTr/BraTS2021_01100.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01101.nii.gz",
+            "label": "./labelsTr/BraTS2021_01101.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01102.nii.gz",
+            "label": "./labelsTr/BraTS2021_01102.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01103.nii.gz",
+            "label": "./labelsTr/BraTS2021_01103.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01104.nii.gz",
+            "label": "./labelsTr/BraTS2021_01104.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01105.nii.gz",
+            "label": "./labelsTr/BraTS2021_01105.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01106.nii.gz",
+            "label": "./labelsTr/BraTS2021_01106.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01107.nii.gz",
+            "label": "./labelsTr/BraTS2021_01107.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01108.nii.gz",
+            "label": "./labelsTr/BraTS2021_01108.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01109.nii.gz",
+            "label": "./labelsTr/BraTS2021_01109.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01110.nii.gz",
+            "label": "./labelsTr/BraTS2021_01110.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01111.nii.gz",
+            "label": "./labelsTr/BraTS2021_01111.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01112.nii.gz",
+            "label": "./labelsTr/BraTS2021_01112.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01113.nii.gz",
+            "label": "./labelsTr/BraTS2021_01113.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01114.nii.gz",
+            "label": "./labelsTr/BraTS2021_01114.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01115.nii.gz",
+            "label": "./labelsTr/BraTS2021_01115.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01116.nii.gz",
+            "label": "./labelsTr/BraTS2021_01116.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01117.nii.gz",
+            "label": "./labelsTr/BraTS2021_01117.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01118.nii.gz",
+            "label": "./labelsTr/BraTS2021_01118.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01119.nii.gz",
+            "label": "./labelsTr/BraTS2021_01119.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01120.nii.gz",
+            "label": "./labelsTr/BraTS2021_01120.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01121.nii.gz",
+            "label": "./labelsTr/BraTS2021_01121.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01122.nii.gz",
+            "label": "./labelsTr/BraTS2021_01122.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01123.nii.gz",
+            "label": "./labelsTr/BraTS2021_01123.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01124.nii.gz",
+            "label": "./labelsTr/BraTS2021_01124.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01125.nii.gz",
+            "label": "./labelsTr/BraTS2021_01125.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01126.nii.gz",
+            "label": "./labelsTr/BraTS2021_01126.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01127.nii.gz",
+            "label": "./labelsTr/BraTS2021_01127.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01128.nii.gz",
+            "label": "./labelsTr/BraTS2021_01128.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01129.nii.gz",
+            "label": "./labelsTr/BraTS2021_01129.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01130.nii.gz",
+            "label": "./labelsTr/BraTS2021_01130.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01131.nii.gz",
+            "label": "./labelsTr/BraTS2021_01131.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01132.nii.gz",
+            "label": "./labelsTr/BraTS2021_01132.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01133.nii.gz",
+            "label": "./labelsTr/BraTS2021_01133.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01134.nii.gz",
+            "label": "./labelsTr/BraTS2021_01134.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01135.nii.gz",
+            "label": "./labelsTr/BraTS2021_01135.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01136.nii.gz",
+            "label": "./labelsTr/BraTS2021_01136.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01137.nii.gz",
+            "label": "./labelsTr/BraTS2021_01137.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01138.nii.gz",
+            "label": "./labelsTr/BraTS2021_01138.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01139.nii.gz",
+            "label": "./labelsTr/BraTS2021_01139.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01140.nii.gz",
+            "label": "./labelsTr/BraTS2021_01140.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01141.nii.gz",
+            "label": "./labelsTr/BraTS2021_01141.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01142.nii.gz",
+            "label": "./labelsTr/BraTS2021_01142.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01143.nii.gz",
+            "label": "./labelsTr/BraTS2021_01143.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01144.nii.gz",
+            "label": "./labelsTr/BraTS2021_01144.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01145.nii.gz",
+            "label": "./labelsTr/BraTS2021_01145.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01146.nii.gz",
+            "label": "./labelsTr/BraTS2021_01146.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01147.nii.gz",
+            "label": "./labelsTr/BraTS2021_01147.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01148.nii.gz",
+            "label": "./labelsTr/BraTS2021_01148.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01149.nii.gz",
+            "label": "./labelsTr/BraTS2021_01149.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01150.nii.gz",
+            "label": "./labelsTr/BraTS2021_01150.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01151.nii.gz",
+            "label": "./labelsTr/BraTS2021_01151.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01152.nii.gz",
+            "label": "./labelsTr/BraTS2021_01152.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01153.nii.gz",
+            "label": "./labelsTr/BraTS2021_01153.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01154.nii.gz",
+            "label": "./labelsTr/BraTS2021_01154.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01155.nii.gz",
+            "label": "./labelsTr/BraTS2021_01155.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01156.nii.gz",
+            "label": "./labelsTr/BraTS2021_01156.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01157.nii.gz",
+            "label": "./labelsTr/BraTS2021_01157.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01158.nii.gz",
+            "label": "./labelsTr/BraTS2021_01158.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01159.nii.gz",
+            "label": "./labelsTr/BraTS2021_01159.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01160.nii.gz",
+            "label": "./labelsTr/BraTS2021_01160.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01161.nii.gz",
+            "label": "./labelsTr/BraTS2021_01161.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01162.nii.gz",
+            "label": "./labelsTr/BraTS2021_01162.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01163.nii.gz",
+            "label": "./labelsTr/BraTS2021_01163.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01164.nii.gz",
+            "label": "./labelsTr/BraTS2021_01164.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01165.nii.gz",
+            "label": "./labelsTr/BraTS2021_01165.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01166.nii.gz",
+            "label": "./labelsTr/BraTS2021_01166.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01167.nii.gz",
+            "label": "./labelsTr/BraTS2021_01167.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01168.nii.gz",
+            "label": "./labelsTr/BraTS2021_01168.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01169.nii.gz",
+            "label": "./labelsTr/BraTS2021_01169.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01170.nii.gz",
+            "label": "./labelsTr/BraTS2021_01170.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01171.nii.gz",
+            "label": "./labelsTr/BraTS2021_01171.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01172.nii.gz",
+            "label": "./labelsTr/BraTS2021_01172.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01173.nii.gz",
+            "label": "./labelsTr/BraTS2021_01173.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01174.nii.gz",
+            "label": "./labelsTr/BraTS2021_01174.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01175.nii.gz",
+            "label": "./labelsTr/BraTS2021_01175.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01176.nii.gz",
+            "label": "./labelsTr/BraTS2021_01176.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01177.nii.gz",
+            "label": "./labelsTr/BraTS2021_01177.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01178.nii.gz",
+            "label": "./labelsTr/BraTS2021_01178.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01179.nii.gz",
+            "label": "./labelsTr/BraTS2021_01179.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01180.nii.gz",
+            "label": "./labelsTr/BraTS2021_01180.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01181.nii.gz",
+            "label": "./labelsTr/BraTS2021_01181.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01182.nii.gz",
+            "label": "./labelsTr/BraTS2021_01182.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01183.nii.gz",
+            "label": "./labelsTr/BraTS2021_01183.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01184.nii.gz",
+            "label": "./labelsTr/BraTS2021_01184.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01185.nii.gz",
+            "label": "./labelsTr/BraTS2021_01185.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01186.nii.gz",
+            "label": "./labelsTr/BraTS2021_01186.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01187.nii.gz",
+            "label": "./labelsTr/BraTS2021_01187.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01188.nii.gz",
+            "label": "./labelsTr/BraTS2021_01188.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01189.nii.gz",
+            "label": "./labelsTr/BraTS2021_01189.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01190.nii.gz",
+            "label": "./labelsTr/BraTS2021_01190.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01191.nii.gz",
+            "label": "./labelsTr/BraTS2021_01191.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01192.nii.gz",
+            "label": "./labelsTr/BraTS2021_01192.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01193.nii.gz",
+            "label": "./labelsTr/BraTS2021_01193.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01194.nii.gz",
+            "label": "./labelsTr/BraTS2021_01194.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01195.nii.gz",
+            "label": "./labelsTr/BraTS2021_01195.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01196.nii.gz",
+            "label": "./labelsTr/BraTS2021_01196.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01197.nii.gz",
+            "label": "./labelsTr/BraTS2021_01197.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01198.nii.gz",
+            "label": "./labelsTr/BraTS2021_01198.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01199.nii.gz",
+            "label": "./labelsTr/BraTS2021_01199.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01200.nii.gz",
+            "label": "./labelsTr/BraTS2021_01200.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01201.nii.gz",
+            "label": "./labelsTr/BraTS2021_01201.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01202.nii.gz",
+            "label": "./labelsTr/BraTS2021_01202.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01203.nii.gz",
+            "label": "./labelsTr/BraTS2021_01203.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01204.nii.gz",
+            "label": "./labelsTr/BraTS2021_01204.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01205.nii.gz",
+            "label": "./labelsTr/BraTS2021_01205.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01206.nii.gz",
+            "label": "./labelsTr/BraTS2021_01206.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01207.nii.gz",
+            "label": "./labelsTr/BraTS2021_01207.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01208.nii.gz",
+            "label": "./labelsTr/BraTS2021_01208.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01209.nii.gz",
+            "label": "./labelsTr/BraTS2021_01209.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01210.nii.gz",
+            "label": "./labelsTr/BraTS2021_01210.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01211.nii.gz",
+            "label": "./labelsTr/BraTS2021_01211.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01212.nii.gz",
+            "label": "./labelsTr/BraTS2021_01212.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01213.nii.gz",
+            "label": "./labelsTr/BraTS2021_01213.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01214.nii.gz",
+            "label": "./labelsTr/BraTS2021_01214.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01215.nii.gz",
+            "label": "./labelsTr/BraTS2021_01215.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01216.nii.gz",
+            "label": "./labelsTr/BraTS2021_01216.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01217.nii.gz",
+            "label": "./labelsTr/BraTS2021_01217.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01218.nii.gz",
+            "label": "./labelsTr/BraTS2021_01218.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01219.nii.gz",
+            "label": "./labelsTr/BraTS2021_01219.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01220.nii.gz",
+            "label": "./labelsTr/BraTS2021_01220.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01221.nii.gz",
+            "label": "./labelsTr/BraTS2021_01221.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01222.nii.gz",
+            "label": "./labelsTr/BraTS2021_01222.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01223.nii.gz",
+            "label": "./labelsTr/BraTS2021_01223.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01224.nii.gz",
+            "label": "./labelsTr/BraTS2021_01224.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01225.nii.gz",
+            "label": "./labelsTr/BraTS2021_01225.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01226.nii.gz",
+            "label": "./labelsTr/BraTS2021_01226.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01227.nii.gz",
+            "label": "./labelsTr/BraTS2021_01227.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01228.nii.gz",
+            "label": "./labelsTr/BraTS2021_01228.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01229.nii.gz",
+            "label": "./labelsTr/BraTS2021_01229.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01230.nii.gz",
+            "label": "./labelsTr/BraTS2021_01230.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01231.nii.gz",
+            "label": "./labelsTr/BraTS2021_01231.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01232.nii.gz",
+            "label": "./labelsTr/BraTS2021_01232.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01233.nii.gz",
+            "label": "./labelsTr/BraTS2021_01233.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01234.nii.gz",
+            "label": "./labelsTr/BraTS2021_01234.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01235.nii.gz",
+            "label": "./labelsTr/BraTS2021_01235.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01236.nii.gz",
+            "label": "./labelsTr/BraTS2021_01236.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01237.nii.gz",
+            "label": "./labelsTr/BraTS2021_01237.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01238.nii.gz",
+            "label": "./labelsTr/BraTS2021_01238.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01239.nii.gz",
+            "label": "./labelsTr/BraTS2021_01239.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01240.nii.gz",
+            "label": "./labelsTr/BraTS2021_01240.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01241.nii.gz",
+            "label": "./labelsTr/BraTS2021_01241.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01242.nii.gz",
+            "label": "./labelsTr/BraTS2021_01242.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01243.nii.gz",
+            "label": "./labelsTr/BraTS2021_01243.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01244.nii.gz",
+            "label": "./labelsTr/BraTS2021_01244.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01245.nii.gz",
+            "label": "./labelsTr/BraTS2021_01245.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01246.nii.gz",
+            "label": "./labelsTr/BraTS2021_01246.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01247.nii.gz",
+            "label": "./labelsTr/BraTS2021_01247.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01248.nii.gz",
+            "label": "./labelsTr/BraTS2021_01248.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01249.nii.gz",
+            "label": "./labelsTr/BraTS2021_01249.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01250.nii.gz",
+            "label": "./labelsTr/BraTS2021_01250.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01251.nii.gz",
+            "label": "./labelsTr/BraTS2021_01251.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01252.nii.gz",
+            "label": "./labelsTr/BraTS2021_01252.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01253.nii.gz",
+            "label": "./labelsTr/BraTS2021_01253.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01254.nii.gz",
+            "label": "./labelsTr/BraTS2021_01254.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01255.nii.gz",
+            "label": "./labelsTr/BraTS2021_01255.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01256.nii.gz",
+            "label": "./labelsTr/BraTS2021_01256.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01257.nii.gz",
+            "label": "./labelsTr/BraTS2021_01257.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01258.nii.gz",
+            "label": "./labelsTr/BraTS2021_01258.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01259.nii.gz",
+            "label": "./labelsTr/BraTS2021_01259.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01260.nii.gz",
+            "label": "./labelsTr/BraTS2021_01260.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01261.nii.gz",
+            "label": "./labelsTr/BraTS2021_01261.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01262.nii.gz",
+            "label": "./labelsTr/BraTS2021_01262.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01263.nii.gz",
+            "label": "./labelsTr/BraTS2021_01263.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01264.nii.gz",
+            "label": "./labelsTr/BraTS2021_01264.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01265.nii.gz",
+            "label": "./labelsTr/BraTS2021_01265.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01266.nii.gz",
+            "label": "./labelsTr/BraTS2021_01266.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01267.nii.gz",
+            "label": "./labelsTr/BraTS2021_01267.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01268.nii.gz",
+            "label": "./labelsTr/BraTS2021_01268.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01269.nii.gz",
+            "label": "./labelsTr/BraTS2021_01269.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01270.nii.gz",
+            "label": "./labelsTr/BraTS2021_01270.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01271.nii.gz",
+            "label": "./labelsTr/BraTS2021_01271.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01272.nii.gz",
+            "label": "./labelsTr/BraTS2021_01272.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01273.nii.gz",
+            "label": "./labelsTr/BraTS2021_01273.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01274.nii.gz",
+            "label": "./labelsTr/BraTS2021_01274.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01275.nii.gz",
+            "label": "./labelsTr/BraTS2021_01275.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01276.nii.gz",
+            "label": "./labelsTr/BraTS2021_01276.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01277.nii.gz",
+            "label": "./labelsTr/BraTS2021_01277.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01278.nii.gz",
+            "label": "./labelsTr/BraTS2021_01278.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01279.nii.gz",
+            "label": "./labelsTr/BraTS2021_01279.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01280.nii.gz",
+            "label": "./labelsTr/BraTS2021_01280.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01281.nii.gz",
+            "label": "./labelsTr/BraTS2021_01281.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01282.nii.gz",
+            "label": "./labelsTr/BraTS2021_01282.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01283.nii.gz",
+            "label": "./labelsTr/BraTS2021_01283.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01284.nii.gz",
+            "label": "./labelsTr/BraTS2021_01284.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01285.nii.gz",
+            "label": "./labelsTr/BraTS2021_01285.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01286.nii.gz",
+            "label": "./labelsTr/BraTS2021_01286.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01287.nii.gz",
+            "label": "./labelsTr/BraTS2021_01287.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01288.nii.gz",
+            "label": "./labelsTr/BraTS2021_01288.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01289.nii.gz",
+            "label": "./labelsTr/BraTS2021_01289.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01290.nii.gz",
+            "label": "./labelsTr/BraTS2021_01290.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01291.nii.gz",
+            "label": "./labelsTr/BraTS2021_01291.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01292.nii.gz",
+            "label": "./labelsTr/BraTS2021_01292.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01293.nii.gz",
+            "label": "./labelsTr/BraTS2021_01293.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01294.nii.gz",
+            "label": "./labelsTr/BraTS2021_01294.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01295.nii.gz",
+            "label": "./labelsTr/BraTS2021_01295.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01296.nii.gz",
+            "label": "./labelsTr/BraTS2021_01296.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01297.nii.gz",
+            "label": "./labelsTr/BraTS2021_01297.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01298.nii.gz",
+            "label": "./labelsTr/BraTS2021_01298.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01299.nii.gz",
+            "label": "./labelsTr/BraTS2021_01299.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01300.nii.gz",
+            "label": "./labelsTr/BraTS2021_01300.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01301.nii.gz",
+            "label": "./labelsTr/BraTS2021_01301.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01302.nii.gz",
+            "label": "./labelsTr/BraTS2021_01302.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01303.nii.gz",
+            "label": "./labelsTr/BraTS2021_01303.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01304.nii.gz",
+            "label": "./labelsTr/BraTS2021_01304.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01305.nii.gz",
+            "label": "./labelsTr/BraTS2021_01305.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01306.nii.gz",
+            "label": "./labelsTr/BraTS2021_01306.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01307.nii.gz",
+            "label": "./labelsTr/BraTS2021_01307.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01308.nii.gz",
+            "label": "./labelsTr/BraTS2021_01308.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01309.nii.gz",
+            "label": "./labelsTr/BraTS2021_01309.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01310.nii.gz",
+            "label": "./labelsTr/BraTS2021_01310.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01311.nii.gz",
+            "label": "./labelsTr/BraTS2021_01311.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01312.nii.gz",
+            "label": "./labelsTr/BraTS2021_01312.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01313.nii.gz",
+            "label": "./labelsTr/BraTS2021_01313.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01314.nii.gz",
+            "label": "./labelsTr/BraTS2021_01314.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01315.nii.gz",
+            "label": "./labelsTr/BraTS2021_01315.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01316.nii.gz",
+            "label": "./labelsTr/BraTS2021_01316.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01317.nii.gz",
+            "label": "./labelsTr/BraTS2021_01317.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01318.nii.gz",
+            "label": "./labelsTr/BraTS2021_01318.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01319.nii.gz",
+            "label": "./labelsTr/BraTS2021_01319.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01320.nii.gz",
+            "label": "./labelsTr/BraTS2021_01320.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01321.nii.gz",
+            "label": "./labelsTr/BraTS2021_01321.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01322.nii.gz",
+            "label": "./labelsTr/BraTS2021_01322.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01323.nii.gz",
+            "label": "./labelsTr/BraTS2021_01323.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01324.nii.gz",
+            "label": "./labelsTr/BraTS2021_01324.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01325.nii.gz",
+            "label": "./labelsTr/BraTS2021_01325.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01326.nii.gz",
+            "label": "./labelsTr/BraTS2021_01326.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01327.nii.gz",
+            "label": "./labelsTr/BraTS2021_01327.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01328.nii.gz",
+            "label": "./labelsTr/BraTS2021_01328.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01329.nii.gz",
+            "label": "./labelsTr/BraTS2021_01329.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01330.nii.gz",
+            "label": "./labelsTr/BraTS2021_01330.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01331.nii.gz",
+            "label": "./labelsTr/BraTS2021_01331.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01332.nii.gz",
+            "label": "./labelsTr/BraTS2021_01332.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01333.nii.gz",
+            "label": "./labelsTr/BraTS2021_01333.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01334.nii.gz",
+            "label": "./labelsTr/BraTS2021_01334.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01335.nii.gz",
+            "label": "./labelsTr/BraTS2021_01335.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01336.nii.gz",
+            "label": "./labelsTr/BraTS2021_01336.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01337.nii.gz",
+            "label": "./labelsTr/BraTS2021_01337.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01338.nii.gz",
+            "label": "./labelsTr/BraTS2021_01338.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01339.nii.gz",
+            "label": "./labelsTr/BraTS2021_01339.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01340.nii.gz",
+            "label": "./labelsTr/BraTS2021_01340.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01341.nii.gz",
+            "label": "./labelsTr/BraTS2021_01341.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01342.nii.gz",
+            "label": "./labelsTr/BraTS2021_01342.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01343.nii.gz",
+            "label": "./labelsTr/BraTS2021_01343.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01344.nii.gz",
+            "label": "./labelsTr/BraTS2021_01344.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01345.nii.gz",
+            "label": "./labelsTr/BraTS2021_01345.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01346.nii.gz",
+            "label": "./labelsTr/BraTS2021_01346.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01347.nii.gz",
+            "label": "./labelsTr/BraTS2021_01347.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01348.nii.gz",
+            "label": "./labelsTr/BraTS2021_01348.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01349.nii.gz",
+            "label": "./labelsTr/BraTS2021_01349.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01350.nii.gz",
+            "label": "./labelsTr/BraTS2021_01350.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01351.nii.gz",
+            "label": "./labelsTr/BraTS2021_01351.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01352.nii.gz",
+            "label": "./labelsTr/BraTS2021_01352.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01353.nii.gz",
+            "label": "./labelsTr/BraTS2021_01353.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01354.nii.gz",
+            "label": "./labelsTr/BraTS2021_01354.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01355.nii.gz",
+            "label": "./labelsTr/BraTS2021_01355.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01356.nii.gz",
+            "label": "./labelsTr/BraTS2021_01356.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01357.nii.gz",
+            "label": "./labelsTr/BraTS2021_01357.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01358.nii.gz",
+            "label": "./labelsTr/BraTS2021_01358.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01359.nii.gz",
+            "label": "./labelsTr/BraTS2021_01359.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01360.nii.gz",
+            "label": "./labelsTr/BraTS2021_01360.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01361.nii.gz",
+            "label": "./labelsTr/BraTS2021_01361.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01362.nii.gz",
+            "label": "./labelsTr/BraTS2021_01362.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01363.nii.gz",
+            "label": "./labelsTr/BraTS2021_01363.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01364.nii.gz",
+            "label": "./labelsTr/BraTS2021_01364.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01365.nii.gz",
+            "label": "./labelsTr/BraTS2021_01365.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01366.nii.gz",
+            "label": "./labelsTr/BraTS2021_01366.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01367.nii.gz",
+            "label": "./labelsTr/BraTS2021_01367.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01368.nii.gz",
+            "label": "./labelsTr/BraTS2021_01368.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01369.nii.gz",
+            "label": "./labelsTr/BraTS2021_01369.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01370.nii.gz",
+            "label": "./labelsTr/BraTS2021_01370.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01371.nii.gz",
+            "label": "./labelsTr/BraTS2021_01371.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01372.nii.gz",
+            "label": "./labelsTr/BraTS2021_01372.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01373.nii.gz",
+            "label": "./labelsTr/BraTS2021_01373.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01374.nii.gz",
+            "label": "./labelsTr/BraTS2021_01374.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01375.nii.gz",
+            "label": "./labelsTr/BraTS2021_01375.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01376.nii.gz",
+            "label": "./labelsTr/BraTS2021_01376.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01377.nii.gz",
+            "label": "./labelsTr/BraTS2021_01377.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01378.nii.gz",
+            "label": "./labelsTr/BraTS2021_01378.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01379.nii.gz",
+            "label": "./labelsTr/BraTS2021_01379.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01380.nii.gz",
+            "label": "./labelsTr/BraTS2021_01380.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01381.nii.gz",
+            "label": "./labelsTr/BraTS2021_01381.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01382.nii.gz",
+            "label": "./labelsTr/BraTS2021_01382.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01383.nii.gz",
+            "label": "./labelsTr/BraTS2021_01383.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01384.nii.gz",
+            "label": "./labelsTr/BraTS2021_01384.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01385.nii.gz",
+            "label": "./labelsTr/BraTS2021_01385.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01386.nii.gz",
+            "label": "./labelsTr/BraTS2021_01386.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01387.nii.gz",
+            "label": "./labelsTr/BraTS2021_01387.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01388.nii.gz",
+            "label": "./labelsTr/BraTS2021_01388.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01389.nii.gz",
+            "label": "./labelsTr/BraTS2021_01389.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01390.nii.gz",
+            "label": "./labelsTr/BraTS2021_01390.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01391.nii.gz",
+            "label": "./labelsTr/BraTS2021_01391.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01392.nii.gz",
+            "label": "./labelsTr/BraTS2021_01392.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01393.nii.gz",
+            "label": "./labelsTr/BraTS2021_01393.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01394.nii.gz",
+            "label": "./labelsTr/BraTS2021_01394.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01395.nii.gz",
+            "label": "./labelsTr/BraTS2021_01395.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01396.nii.gz",
+            "label": "./labelsTr/BraTS2021_01396.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01397.nii.gz",
+            "label": "./labelsTr/BraTS2021_01397.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01398.nii.gz",
+            "label": "./labelsTr/BraTS2021_01398.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01399.nii.gz",
+            "label": "./labelsTr/BraTS2021_01399.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01400.nii.gz",
+            "label": "./labelsTr/BraTS2021_01400.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01401.nii.gz",
+            "label": "./labelsTr/BraTS2021_01401.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01402.nii.gz",
+            "label": "./labelsTr/BraTS2021_01402.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01403.nii.gz",
+            "label": "./labelsTr/BraTS2021_01403.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01404.nii.gz",
+            "label": "./labelsTr/BraTS2021_01404.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01405.nii.gz",
+            "label": "./labelsTr/BraTS2021_01405.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01406.nii.gz",
+            "label": "./labelsTr/BraTS2021_01406.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01407.nii.gz",
+            "label": "./labelsTr/BraTS2021_01407.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01408.nii.gz",
+            "label": "./labelsTr/BraTS2021_01408.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01409.nii.gz",
+            "label": "./labelsTr/BraTS2021_01409.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01410.nii.gz",
+            "label": "./labelsTr/BraTS2021_01410.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01411.nii.gz",
+            "label": "./labelsTr/BraTS2021_01411.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01412.nii.gz",
+            "label": "./labelsTr/BraTS2021_01412.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01413.nii.gz",
+            "label": "./labelsTr/BraTS2021_01413.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01414.nii.gz",
+            "label": "./labelsTr/BraTS2021_01414.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01415.nii.gz",
+            "label": "./labelsTr/BraTS2021_01415.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01416.nii.gz",
+            "label": "./labelsTr/BraTS2021_01416.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01417.nii.gz",
+            "label": "./labelsTr/BraTS2021_01417.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01418.nii.gz",
+            "label": "./labelsTr/BraTS2021_01418.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01419.nii.gz",
+            "label": "./labelsTr/BraTS2021_01419.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01420.nii.gz",
+            "label": "./labelsTr/BraTS2021_01420.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01421.nii.gz",
+            "label": "./labelsTr/BraTS2021_01421.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01422.nii.gz",
+            "label": "./labelsTr/BraTS2021_01422.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01423.nii.gz",
+            "label": "./labelsTr/BraTS2021_01423.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01424.nii.gz",
+            "label": "./labelsTr/BraTS2021_01424.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01425.nii.gz",
+            "label": "./labelsTr/BraTS2021_01425.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01426.nii.gz",
+            "label": "./labelsTr/BraTS2021_01426.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01427.nii.gz",
+            "label": "./labelsTr/BraTS2021_01427.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01428.nii.gz",
+            "label": "./labelsTr/BraTS2021_01428.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01429.nii.gz",
+            "label": "./labelsTr/BraTS2021_01429.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01430.nii.gz",
+            "label": "./labelsTr/BraTS2021_01430.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01431.nii.gz",
+            "label": "./labelsTr/BraTS2021_01431.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01432.nii.gz",
+            "label": "./labelsTr/BraTS2021_01432.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01433.nii.gz",
+            "label": "./labelsTr/BraTS2021_01433.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01434.nii.gz",
+            "label": "./labelsTr/BraTS2021_01434.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01435.nii.gz",
+            "label": "./labelsTr/BraTS2021_01435.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01436.nii.gz",
+            "label": "./labelsTr/BraTS2021_01436.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01437.nii.gz",
+            "label": "./labelsTr/BraTS2021_01437.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01438.nii.gz",
+            "label": "./labelsTr/BraTS2021_01438.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01439.nii.gz",
+            "label": "./labelsTr/BraTS2021_01439.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01440.nii.gz",
+            "label": "./labelsTr/BraTS2021_01440.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01441.nii.gz",
+            "label": "./labelsTr/BraTS2021_01441.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01442.nii.gz",
+            "label": "./labelsTr/BraTS2021_01442.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01443.nii.gz",
+            "label": "./labelsTr/BraTS2021_01443.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01444.nii.gz",
+            "label": "./labelsTr/BraTS2021_01444.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01445.nii.gz",
+            "label": "./labelsTr/BraTS2021_01445.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01446.nii.gz",
+            "label": "./labelsTr/BraTS2021_01446.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01447.nii.gz",
+            "label": "./labelsTr/BraTS2021_01447.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01448.nii.gz",
+            "label": "./labelsTr/BraTS2021_01448.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01449.nii.gz",
+            "label": "./labelsTr/BraTS2021_01449.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01450.nii.gz",
+            "label": "./labelsTr/BraTS2021_01450.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01451.nii.gz",
+            "label": "./labelsTr/BraTS2021_01451.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01452.nii.gz",
+            "label": "./labelsTr/BraTS2021_01452.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01453.nii.gz",
+            "label": "./labelsTr/BraTS2021_01453.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01454.nii.gz",
+            "label": "./labelsTr/BraTS2021_01454.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01455.nii.gz",
+            "label": "./labelsTr/BraTS2021_01455.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01456.nii.gz",
+            "label": "./labelsTr/BraTS2021_01456.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01457.nii.gz",
+            "label": "./labelsTr/BraTS2021_01457.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01458.nii.gz",
+            "label": "./labelsTr/BraTS2021_01458.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01459.nii.gz",
+            "label": "./labelsTr/BraTS2021_01459.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01460.nii.gz",
+            "label": "./labelsTr/BraTS2021_01460.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01461.nii.gz",
+            "label": "./labelsTr/BraTS2021_01461.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01462.nii.gz",
+            "label": "./labelsTr/BraTS2021_01462.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01463.nii.gz",
+            "label": "./labelsTr/BraTS2021_01463.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01464.nii.gz",
+            "label": "./labelsTr/BraTS2021_01464.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01465.nii.gz",
+            "label": "./labelsTr/BraTS2021_01465.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01466.nii.gz",
+            "label": "./labelsTr/BraTS2021_01466.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01467.nii.gz",
+            "label": "./labelsTr/BraTS2021_01467.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01468.nii.gz",
+            "label": "./labelsTr/BraTS2021_01468.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01469.nii.gz",
+            "label": "./labelsTr/BraTS2021_01469.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01470.nii.gz",
+            "label": "./labelsTr/BraTS2021_01470.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01471.nii.gz",
+            "label": "./labelsTr/BraTS2021_01471.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01472.nii.gz",
+            "label": "./labelsTr/BraTS2021_01472.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01473.nii.gz",
+            "label": "./labelsTr/BraTS2021_01473.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01474.nii.gz",
+            "label": "./labelsTr/BraTS2021_01474.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01475.nii.gz",
+            "label": "./labelsTr/BraTS2021_01475.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01476.nii.gz",
+            "label": "./labelsTr/BraTS2021_01476.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01477.nii.gz",
+            "label": "./labelsTr/BraTS2021_01477.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01478.nii.gz",
+            "label": "./labelsTr/BraTS2021_01478.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01479.nii.gz",
+            "label": "./labelsTr/BraTS2021_01479.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01480.nii.gz",
+            "label": "./labelsTr/BraTS2021_01480.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01481.nii.gz",
+            "label": "./labelsTr/BraTS2021_01481.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01482.nii.gz",
+            "label": "./labelsTr/BraTS2021_01482.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01483.nii.gz",
+            "label": "./labelsTr/BraTS2021_01483.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01484.nii.gz",
+            "label": "./labelsTr/BraTS2021_01484.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01485.nii.gz",
+            "label": "./labelsTr/BraTS2021_01485.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01486.nii.gz",
+            "label": "./labelsTr/BraTS2021_01486.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01487.nii.gz",
+            "label": "./labelsTr/BraTS2021_01487.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01488.nii.gz",
+            "label": "./labelsTr/BraTS2021_01488.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01489.nii.gz",
+            "label": "./labelsTr/BraTS2021_01489.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01490.nii.gz",
+            "label": "./labelsTr/BraTS2021_01490.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01491.nii.gz",
+            "label": "./labelsTr/BraTS2021_01491.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01492.nii.gz",
+            "label": "./labelsTr/BraTS2021_01492.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01493.nii.gz",
+            "label": "./labelsTr/BraTS2021_01493.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01494.nii.gz",
+            "label": "./labelsTr/BraTS2021_01494.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01495.nii.gz",
+            "label": "./labelsTr/BraTS2021_01495.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01496.nii.gz",
+            "label": "./labelsTr/BraTS2021_01496.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01497.nii.gz",
+            "label": "./labelsTr/BraTS2021_01497.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01498.nii.gz",
+            "label": "./labelsTr/BraTS2021_01498.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01499.nii.gz",
+            "label": "./labelsTr/BraTS2021_01499.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01500.nii.gz",
+            "label": "./labelsTr/BraTS2021_01500.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01501.nii.gz",
+            "label": "./labelsTr/BraTS2021_01501.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01502.nii.gz",
+            "label": "./labelsTr/BraTS2021_01502.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01503.nii.gz",
+            "label": "./labelsTr/BraTS2021_01503.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01504.nii.gz",
+            "label": "./labelsTr/BraTS2021_01504.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01505.nii.gz",
+            "label": "./labelsTr/BraTS2021_01505.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01506.nii.gz",
+            "label": "./labelsTr/BraTS2021_01506.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01507.nii.gz",
+            "label": "./labelsTr/BraTS2021_01507.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01508.nii.gz",
+            "label": "./labelsTr/BraTS2021_01508.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01509.nii.gz",
+            "label": "./labelsTr/BraTS2021_01509.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01510.nii.gz",
+            "label": "./labelsTr/BraTS2021_01510.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01511.nii.gz",
+            "label": "./labelsTr/BraTS2021_01511.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01512.nii.gz",
+            "label": "./labelsTr/BraTS2021_01512.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01513.nii.gz",
+            "label": "./labelsTr/BraTS2021_01513.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01514.nii.gz",
+            "label": "./labelsTr/BraTS2021_01514.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01515.nii.gz",
+            "label": "./labelsTr/BraTS2021_01515.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01516.nii.gz",
+            "label": "./labelsTr/BraTS2021_01516.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01517.nii.gz",
+            "label": "./labelsTr/BraTS2021_01517.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01518.nii.gz",
+            "label": "./labelsTr/BraTS2021_01518.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01519.nii.gz",
+            "label": "./labelsTr/BraTS2021_01519.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01520.nii.gz",
+            "label": "./labelsTr/BraTS2021_01520.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01521.nii.gz",
+            "label": "./labelsTr/BraTS2021_01521.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01522.nii.gz",
+            "label": "./labelsTr/BraTS2021_01522.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01523.nii.gz",
+            "label": "./labelsTr/BraTS2021_01523.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01524.nii.gz",
+            "label": "./labelsTr/BraTS2021_01524.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01525.nii.gz",
+            "label": "./labelsTr/BraTS2021_01525.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01526.nii.gz",
+            "label": "./labelsTr/BraTS2021_01526.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01527.nii.gz",
+            "label": "./labelsTr/BraTS2021_01527.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01528.nii.gz",
+            "label": "./labelsTr/BraTS2021_01528.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01529.nii.gz",
+            "label": "./labelsTr/BraTS2021_01529.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01530.nii.gz",
+            "label": "./labelsTr/BraTS2021_01530.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01531.nii.gz",
+            "label": "./labelsTr/BraTS2021_01531.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01532.nii.gz",
+            "label": "./labelsTr/BraTS2021_01532.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01533.nii.gz",
+            "label": "./labelsTr/BraTS2021_01533.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01534.nii.gz",
+            "label": "./labelsTr/BraTS2021_01534.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01535.nii.gz",
+            "label": "./labelsTr/BraTS2021_01535.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01536.nii.gz",
+            "label": "./labelsTr/BraTS2021_01536.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01537.nii.gz",
+            "label": "./labelsTr/BraTS2021_01537.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01538.nii.gz",
+            "label": "./labelsTr/BraTS2021_01538.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01539.nii.gz",
+            "label": "./labelsTr/BraTS2021_01539.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01540.nii.gz",
+            "label": "./labelsTr/BraTS2021_01540.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01541.nii.gz",
+            "label": "./labelsTr/BraTS2021_01541.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01542.nii.gz",
+            "label": "./labelsTr/BraTS2021_01542.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01543.nii.gz",
+            "label": "./labelsTr/BraTS2021_01543.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01544.nii.gz",
+            "label": "./labelsTr/BraTS2021_01544.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01545.nii.gz",
+            "label": "./labelsTr/BraTS2021_01545.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01546.nii.gz",
+            "label": "./labelsTr/BraTS2021_01546.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01547.nii.gz",
+            "label": "./labelsTr/BraTS2021_01547.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01548.nii.gz",
+            "label": "./labelsTr/BraTS2021_01548.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01549.nii.gz",
+            "label": "./labelsTr/BraTS2021_01549.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01550.nii.gz",
+            "label": "./labelsTr/BraTS2021_01550.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01551.nii.gz",
+            "label": "./labelsTr/BraTS2021_01551.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01552.nii.gz",
+            "label": "./labelsTr/BraTS2021_01552.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01553.nii.gz",
+            "label": "./labelsTr/BraTS2021_01553.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01554.nii.gz",
+            "label": "./labelsTr/BraTS2021_01554.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01555.nii.gz",
+            "label": "./labelsTr/BraTS2021_01555.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01556.nii.gz",
+            "label": "./labelsTr/BraTS2021_01556.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01557.nii.gz",
+            "label": "./labelsTr/BraTS2021_01557.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01558.nii.gz",
+            "label": "./labelsTr/BraTS2021_01558.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01559.nii.gz",
+            "label": "./labelsTr/BraTS2021_01559.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01560.nii.gz",
+            "label": "./labelsTr/BraTS2021_01560.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01561.nii.gz",
+            "label": "./labelsTr/BraTS2021_01561.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01562.nii.gz",
+            "label": "./labelsTr/BraTS2021_01562.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01563.nii.gz",
+            "label": "./labelsTr/BraTS2021_01563.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01564.nii.gz",
+            "label": "./labelsTr/BraTS2021_01564.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01565.nii.gz",
+            "label": "./labelsTr/BraTS2021_01565.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01566.nii.gz",
+            "label": "./labelsTr/BraTS2021_01566.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01567.nii.gz",
+            "label": "./labelsTr/BraTS2021_01567.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01568.nii.gz",
+            "label": "./labelsTr/BraTS2021_01568.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01569.nii.gz",
+            "label": "./labelsTr/BraTS2021_01569.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01570.nii.gz",
+            "label": "./labelsTr/BraTS2021_01570.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01571.nii.gz",
+            "label": "./labelsTr/BraTS2021_01571.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01572.nii.gz",
+            "label": "./labelsTr/BraTS2021_01572.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01573.nii.gz",
+            "label": "./labelsTr/BraTS2021_01573.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01574.nii.gz",
+            "label": "./labelsTr/BraTS2021_01574.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01575.nii.gz",
+            "label": "./labelsTr/BraTS2021_01575.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01576.nii.gz",
+            "label": "./labelsTr/BraTS2021_01576.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01577.nii.gz",
+            "label": "./labelsTr/BraTS2021_01577.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01578.nii.gz",
+            "label": "./labelsTr/BraTS2021_01578.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01579.nii.gz",
+            "label": "./labelsTr/BraTS2021_01579.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01580.nii.gz",
+            "label": "./labelsTr/BraTS2021_01580.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01581.nii.gz",
+            "label": "./labelsTr/BraTS2021_01581.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01582.nii.gz",
+            "label": "./labelsTr/BraTS2021_01582.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01583.nii.gz",
+            "label": "./labelsTr/BraTS2021_01583.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01584.nii.gz",
+            "label": "./labelsTr/BraTS2021_01584.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01585.nii.gz",
+            "label": "./labelsTr/BraTS2021_01585.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01586.nii.gz",
+            "label": "./labelsTr/BraTS2021_01586.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01587.nii.gz",
+            "label": "./labelsTr/BraTS2021_01587.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01588.nii.gz",
+            "label": "./labelsTr/BraTS2021_01588.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01589.nii.gz",
+            "label": "./labelsTr/BraTS2021_01589.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01590.nii.gz",
+            "label": "./labelsTr/BraTS2021_01590.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01591.nii.gz",
+            "label": "./labelsTr/BraTS2021_01591.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01592.nii.gz",
+            "label": "./labelsTr/BraTS2021_01592.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01593.nii.gz",
+            "label": "./labelsTr/BraTS2021_01593.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01594.nii.gz",
+            "label": "./labelsTr/BraTS2021_01594.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01595.nii.gz",
+            "label": "./labelsTr/BraTS2021_01595.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01596.nii.gz",
+            "label": "./labelsTr/BraTS2021_01596.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01597.nii.gz",
+            "label": "./labelsTr/BraTS2021_01597.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01598.nii.gz",
+            "label": "./labelsTr/BraTS2021_01598.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01599.nii.gz",
+            "label": "./labelsTr/BraTS2021_01599.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01600.nii.gz",
+            "label": "./labelsTr/BraTS2021_01600.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01601.nii.gz",
+            "label": "./labelsTr/BraTS2021_01601.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01602.nii.gz",
+            "label": "./labelsTr/BraTS2021_01602.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01603.nii.gz",
+            "label": "./labelsTr/BraTS2021_01603.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01604.nii.gz",
+            "label": "./labelsTr/BraTS2021_01604.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01605.nii.gz",
+            "label": "./labelsTr/BraTS2021_01605.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01606.nii.gz",
+            "label": "./labelsTr/BraTS2021_01606.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01607.nii.gz",
+            "label": "./labelsTr/BraTS2021_01607.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01608.nii.gz",
+            "label": "./labelsTr/BraTS2021_01608.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01609.nii.gz",
+            "label": "./labelsTr/BraTS2021_01609.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01610.nii.gz",
+            "label": "./labelsTr/BraTS2021_01610.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01611.nii.gz",
+            "label": "./labelsTr/BraTS2021_01611.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01612.nii.gz",
+            "label": "./labelsTr/BraTS2021_01612.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01613.nii.gz",
+            "label": "./labelsTr/BraTS2021_01613.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01614.nii.gz",
+            "label": "./labelsTr/BraTS2021_01614.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01615.nii.gz",
+            "label": "./labelsTr/BraTS2021_01615.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01616.nii.gz",
+            "label": "./labelsTr/BraTS2021_01616.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01617.nii.gz",
+            "label": "./labelsTr/BraTS2021_01617.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01618.nii.gz",
+            "label": "./labelsTr/BraTS2021_01618.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01619.nii.gz",
+            "label": "./labelsTr/BraTS2021_01619.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01620.nii.gz",
+            "label": "./labelsTr/BraTS2021_01620.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01621.nii.gz",
+            "label": "./labelsTr/BraTS2021_01621.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01622.nii.gz",
+            "label": "./labelsTr/BraTS2021_01622.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01623.nii.gz",
+            "label": "./labelsTr/BraTS2021_01623.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01624.nii.gz",
+            "label": "./labelsTr/BraTS2021_01624.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01625.nii.gz",
+            "label": "./labelsTr/BraTS2021_01625.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01626.nii.gz",
+            "label": "./labelsTr/BraTS2021_01626.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01627.nii.gz",
+            "label": "./labelsTr/BraTS2021_01627.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01628.nii.gz",
+            "label": "./labelsTr/BraTS2021_01628.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01629.nii.gz",
+            "label": "./labelsTr/BraTS2021_01629.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01630.nii.gz",
+            "label": "./labelsTr/BraTS2021_01630.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01631.nii.gz",
+            "label": "./labelsTr/BraTS2021_01631.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01632.nii.gz",
+            "label": "./labelsTr/BraTS2021_01632.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01633.nii.gz",
+            "label": "./labelsTr/BraTS2021_01633.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01634.nii.gz",
+            "label": "./labelsTr/BraTS2021_01634.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01635.nii.gz",
+            "label": "./labelsTr/BraTS2021_01635.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01636.nii.gz",
+            "label": "./labelsTr/BraTS2021_01636.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01637.nii.gz",
+            "label": "./labelsTr/BraTS2021_01637.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01638.nii.gz",
+            "label": "./labelsTr/BraTS2021_01638.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01639.nii.gz",
+            "label": "./labelsTr/BraTS2021_01639.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01640.nii.gz",
+            "label": "./labelsTr/BraTS2021_01640.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01641.nii.gz",
+            "label": "./labelsTr/BraTS2021_01641.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01642.nii.gz",
+            "label": "./labelsTr/BraTS2021_01642.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01643.nii.gz",
+            "label": "./labelsTr/BraTS2021_01643.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01644.nii.gz",
+            "label": "./labelsTr/BraTS2021_01644.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01645.nii.gz",
+            "label": "./labelsTr/BraTS2021_01645.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01646.nii.gz",
+            "label": "./labelsTr/BraTS2021_01646.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01647.nii.gz",
+            "label": "./labelsTr/BraTS2021_01647.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01648.nii.gz",
+            "label": "./labelsTr/BraTS2021_01648.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01649.nii.gz",
+            "label": "./labelsTr/BraTS2021_01649.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01650.nii.gz",
+            "label": "./labelsTr/BraTS2021_01650.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01651.nii.gz",
+            "label": "./labelsTr/BraTS2021_01651.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01652.nii.gz",
+            "label": "./labelsTr/BraTS2021_01652.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01653.nii.gz",
+            "label": "./labelsTr/BraTS2021_01653.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01654.nii.gz",
+            "label": "./labelsTr/BraTS2021_01654.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01655.nii.gz",
+            "label": "./labelsTr/BraTS2021_01655.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01656.nii.gz",
+            "label": "./labelsTr/BraTS2021_01656.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01657.nii.gz",
+            "label": "./labelsTr/BraTS2021_01657.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01658.nii.gz",
+            "label": "./labelsTr/BraTS2021_01658.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01659.nii.gz",
+            "label": "./labelsTr/BraTS2021_01659.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01660.nii.gz",
+            "label": "./labelsTr/BraTS2021_01660.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01661.nii.gz",
+            "label": "./labelsTr/BraTS2021_01661.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01662.nii.gz",
+            "label": "./labelsTr/BraTS2021_01662.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01663.nii.gz",
+            "label": "./labelsTr/BraTS2021_01663.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01664.nii.gz",
+            "label": "./labelsTr/BraTS2021_01664.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01665.nii.gz",
+            "label": "./labelsTr/BraTS2021_01665.nii.gz"
+        },
+        {
+            "image": "./imagesTr/BraTS2021_01666.nii.gz",
+            "label": "./labelsTr/BraTS2021_01666.nii.gz"
+        }
+    ]
+}
